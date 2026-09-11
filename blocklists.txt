@@ -1649,7 +1649,6 @@
 3s7m2ss7g.com
 3s8rz1nq6yw.nightowl.app
 3sd6w6oga9.com
-3site-rss.s3-ap-northeast-1.amazonaws.com
 3spt74.lol
 3sqvexc60y.com
 3t4j5adg9x.com
@@ -10099,7 +10098,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -10165,6 +10163,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15209,8 +15208,6 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -16216,6 +16213,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-dataplane.invideo.io
@@ -18550,7 +18548,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -34276,7 +34273,6 @@ cdn-cloudfront.petametrics.com
 cdn-config.taplytics.com
 cdn-crm.miele.com
 cdn-d.amazon-adsystem.com
-cdn-dataroid.akbank.com.tr
 cdn-dynamic.optimonk.com
 cdn-embed.wiinvent.tv
 cdn-eu-vid1.statserv.net
@@ -71694,6 +71690,7 @@ globeofnews.com
 globerotate.com
 globity.xyz
 globlemath.com
+globus-inter.com
 globvill.de
 globwo.online
 gloealcolloq.cfd
@@ -73546,7 +73543,6 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
-grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -78074,7 +78070,6 @@ gtm.rafaelfarias.com.br
 gtm.rafaelhipnose.com.br
 gtm.rafaelkiso.com.br
 gtm.rafaelocon.com.br
-gtm.rafaelortodontia.com.br
 gtm.rafamedeiros.com
 gtm.rainhadoempate.com
 gtm.rainhadopudim.com.br
@@ -79656,7 +79651,6 @@ gtraiqgaqwlrk.website
 gtrib.kitandkaboodal.com
 gtrimmani.com
 gtrk.s3.amazonaws.com
-gtrm.sutirhatbd.xyz
 gts-ads.twistbox.com
 gts.absulo.cz
 gts.absulo.it
@@ -85834,6 +85828,7 @@ images.learn.follett.com
 images.learn.hitachiconsulting.com
 images.learn.internationalsosfoundation.org
 images.learn.pharmacyclics.com
+images.learn.queenslibrary.org
 images.learn.shredit.com
 images.learn.unisourceworldwide.com
 images.learn.vmware.com
@@ -92102,6 +92097,7 @@ js.users.51.la
 js.verisoul.ai
 js.vlitag.com
 js.w.inmobi.com
+js.wpadmngr.com
 js.wpncdn.com
 js.wpnjs.com
 js.wpnsrv.com
@@ -107022,6 +107018,7 @@ majdmw.gigasport.at
 majestic-oven.com
 majesticbank.at
 majesticbank.de
+majesticbank.is
 majesticbank.sc
 majesticwaterscape.com
 majesticwilderness.com
@@ -120905,7 +120902,6 @@ ngmdyqmrfvdzp.space
 ngnmengjbwjle.space
 ngoahotanglong.vn
 ngpao.mesotheliomaveterans.org
-ngr.com
 ngseriegentsf.org
 ngtvtaxtgzzfd.website
 ngueja.2ememain.be
@@ -125910,7 +125906,6 @@ ocmacs.namjestaj.hr
 ocmhood.com
 ocmtag.com
 ocmthood.com
-ocmufsnhvypis.com
 ocmxbu.hanatour.com
 ocolt.com
 oconner.biz
@@ -134042,6 +134037,7 @@ pneu.mundialpneus.com.br
 pneumahameil.com
 pnfkhu.hygi.de
 pngflow.com
+pngme.ru
 pnhesw.jtb.co.jp
 pnhlhtqlte.cfd
 pnkas.kiki.world
@@ -134642,7 +134638,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -162358,6 +162353,7 @@ smac-ad.com
 smac-ssp.com
 smacfxrtfwqgdi.com
 smackedtapnet.com
+smaclick.com
 smad.ms.zhangyue.net
 smade.otisopse.com
 smade.quellilainitaly.com
@@ -165870,6 +165866,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -174335,7 +174332,6 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -187140,6 +187136,7 @@ suhfnjm.com
 suhkxbszepout.online
 suhvoulwtaxfj.site
 suicidalruse.com
+suijidaohxl.top
 suinebrahman.cfd
 suitablecondemntin.com
 suitcase890.top
@@ -194307,7 +194304,6 @@ tkzgz.scrubsandbeyond.com
 tkzvse.whois.co.kr
 tl-res.com
 tl.foxnews.com
-tl.hulkoffsets.com
 tl.reveriethreads.com
 tl.starshiners.hu
 tl.starshiners.ro
@@ -197120,7 +197116,6 @@ track.dalenetwork.com
 track.daly2024.com
 track.dariuslukas.com
 track.datacenterworld.com
-track.ddmanager.ru
 track.dealextremist.com
 track.debbicarberry.com.au
 track.debenhams.ie
@@ -221359,6 +221354,7 @@ zap.buzz
 zap.cdn.zynga.com
 zapads.zapak.com
 zapandmake.com
+zapbox.ru
 zapcdn.space
 zapcwcnbcnmjo.space
 zapfie-ss.nomshopper.com
@@ -223187,6 +223183,7 @@ zzdvsgnxamcmq.website
 zzfikyawmqtmw.website
 zzfmo.getyourwaggleon.com
 zzfsli.tom-tailor.ru
+zzfxfz.com
 zzghp.velotricbike.com
 zzhengre.com
 zzhizbzowrzlvy.com
