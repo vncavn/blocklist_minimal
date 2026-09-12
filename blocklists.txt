@@ -3270,6 +3270,7 @@
 99kia.com
 99pk.vip
 99stats.com
+99tab.com
 99x.com
 9a3a93a569.com
 9a4v0clpi.com
@@ -7714,7 +7715,6 @@ ad.site-landing.com
 ad.sitelement.sk
 ad.skylinewebcams.com
 ad.smaad.jp
-ad.smaclick.com
 ad.smartclip.net
 ad.smartinmedia.co.kr
 ad.snappea.com
@@ -14725,7 +14725,6 @@ akegb.trinitymeds.com
 akeleygrego.qpon
 akfacewq.eit.edu.au
 akftqsaedhfqt.space
-akfzziowsd.in
 akgnwd.tocris.com
 akhalgori.com
 akhflmskoecmk.site
@@ -15216,6 +15215,8 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -16223,7 +16224,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-dataplane.invideo.io
@@ -22076,7 +22076,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -22225,6 +22224,7 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -23129,6 +23129,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -35111,7 +35112,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -35252,6 +35252,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -63564,6 +63565,7 @@ eximbank.xyz
 eximdigital.com
 exinariuminix.info
 exiniteamanous.shop
+exir-co.com
 existencepawstest.com
 existences2.top
 existencethrough.com
@@ -73302,7 +73304,6 @@ gpvcziftlqnyl.online
 gpvfzisemclow.space
 gpvnguetcenxt.online
 gpxvhjxwncjte.website
-gpymuslzofte.in
 gpyuljehcsmeu.space
 gpzhcc.lapeyre.fr
 gpzxduotqouau.store
@@ -81886,6 +81887,7 @@ highlyhighvacuum.com
 highmaidfhr.com
 highmanapts.com
 highmetrics.com
+highmotiron.live
 highnessdemon.com
 highnoongear.com
 highperformancecpm.com
@@ -96708,6 +96710,7 @@ leonodikeu9sj10.com
 leopard.davidlindahlphoto.com
 leopard.joytotheworld.info
 leopard.laszlo.cloud
+leopard.ui-snippets.dev
 leopard.understandit.se
 leopardfavorite.com
 leopon.jmk.wtf
@@ -134794,6 +134797,7 @@ postpimento.shop
 postrank.com
 postrelease.com
 postreport.meituan.com
+postut.cn
 potable-hearing.pro
 potato.babywarehouse.ca
 potato.facebar.com.ua
@@ -165952,7 +165956,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -168866,7 +168869,6 @@ sonar-vie.xx.fbcdn.net
 sonar-vie1-1.xx.fbcdn.net
 sonar-waw2-1.xx.fbcdn.net
 sonar-waw2-2.xx.fbcdn.net
-sonar-xxb1-1.xx.fbcdn.net
 sonar-xxc1-1.xx.fbcdn.net
 sonar-yyz.xx.fbcdn.net
 sonar-yyz1-1.xx.fbcdn.net
@@ -169062,7 +169064,6 @@ sonar6-tpe1-1.xx.fbcdn.net
 sonar6-vie1-1.xx.fbcdn.net
 sonar6-waw2-1.xx.fbcdn.net
 sonar6-waw2-2.xx.fbcdn.net
-sonar6-xxb1-1.xx.fbcdn.net
 sonar6-xxc1-1.xx.fbcdn.net
 sonar6-yyz1-1.xx.fbcdn.net
 sonar6-zrh1-1.xx.fbcdn.net
@@ -174417,6 +174418,7 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -179928,7 +179930,6 @@ st.creative-cables.sk
 st.creative-cables.us
 st.cucine-sartoriali.it
 st.db-fernverkehr.com
-st.db-tiktok-ticket.de
 st.dealatcity.com
 st.denvertaichigung.com
 st.der-kleine-ice.de
@@ -190973,7 +190974,6 @@ tamedia.click
 tamedia.com.tw
 tameingeckoid.cyou
 tamerliqus.com
-tamfagaqmxc.in
 tamgrt.com
 tamilserial.online
 tamilvu.org
@@ -212763,7 +212763,6 @@ wiggydogshop-ss.checkoutera.com
 wigkswxmurpfn.website
 wigkxx.jetcost.com
 wignosy.com
-wigongrti.in
 wigvceapsow.com
 wih5mo0586.top
 wihbqmopoxatd.site
@@ -215288,6 +215287,7 @@ www.inspectlet.com
 www.instana-e0qgdpnx.net.rewe.de
 www.instant.page
 www.instanthookups.com
+www.insuf.cn
 www.insurads.com
 www.intellectmedia.net
 www.intelligenceadx.com
@@ -217254,7 +217254,6 @@ xhtgfx.deutschesee.de
 xhtkm35sw.com
 xhuahy.juwelo.it
 xhunajtipm.com
-xhupcewu.in
 xhuqhgmc.com
 xhuzgo.formacionalcala.es
 xhvfteujanefb.website
@@ -222835,6 +222834,7 @@ zs.voyage-prive.com
 zs1.cnzz.com
 zs10.cnzz.com
 zs11.cnzz.com
+zs12.cnzz.com
 zs13.cnzz.com
 zs14.cnzz.com
 zs15.cnzz.com
