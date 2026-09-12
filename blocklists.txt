@@ -7280,7 +7280,6 @@ ad.adition.com
 ad.adjw.co.kr
 ad.adkova.com
 ad.admine.co.kr
-ad.adnow.com
 ad.adpon-affi.net
 ad.adpon.jp
 ad.adriver.ru
@@ -10164,6 +10163,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -11821,7 +11821,6 @@ adsixmedia.fr
 adsjqaobchetb.space
 adsjumbo.com
 adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
-adskape.ru
 adskeeper.co.uk
 adskeeper.com
 adsklick.de
@@ -15210,8 +15209,7 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -16217,6 +16215,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-dataplane.invideo.io
@@ -23122,6 +23121,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -29559,7 +29559,6 @@ bnserving.com
 bnsirwpidbpao.online
 bnskqtckshqob.site
 bnsmoi.valx.jp
-bnti.cn
 bntpbhktnkjrn.site
 bntqv.axparis.com
 bntrace.com
@@ -34617,6 +34616,7 @@ cdn.d2-apps.net
 cdn.datateam.co.uk
 cdn.datawrkz.com
 cdn.dawplm.com
+cdn.ddmanager.ru
 cdn.debugbear.com
 cdn.deepintent.com
 cdn.defractal.com
@@ -42954,6 +42954,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -57422,6 +57423,7 @@ dxenmweujarfm.store
 dxfzoq.mittnamnhalsband.se
 dxgo95ahe73e8.cloudfront.net
 dxh2ivs16758.cloudfront.net
+dxix.cn
 dxizep.liniilubvi.ru
 dxj6cq8hj162l.cloudfront.net
 dxk5g04fo96r4.cloudfront.net
@@ -64334,15 +64336,12 @@ faktor.io
 fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -66036,7 +66035,6 @@ find-girls-now.com
 find-ip-address.org
 find-ip.net
 find-it.pro
-find-out-migraine-treatment-mexico.xyz
 find.api.micloud.xiaomi.net.iberostar.com
 findajp.com
 findandate.com
@@ -68050,7 +68048,6 @@ freefromads.com
 freefromads.pro
 freefungames.net
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -71692,7 +71689,6 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -73380,7 +73376,6 @@ granddaughterapexeuropean.com
 granddaughterfeminist.com
 grandeursubtlecol.com
 grandeurtamper.com
-grandeweddings.com
 grandfatherguitar.com
 grandiose-glove.pro
 grandkingdom.com
@@ -127428,6 +127423,7 @@ onetag.tws.toyota.jp
 onetarget.ru
 onethestruis.com
 onetouch4.com
+onetouch8.info
 onetrust.techservices.illinois.edu
 onetubes.top
 onety.pl
@@ -127607,7 +127603,6 @@ onychiapiety.cfd
 onykp.com
 onymitysangha.cyou
 onymizeneighed.qpon
-onyx.kim
 onzhe.craftsports.us
 onzj79fce.com
 onzloa.classically.co.kr
@@ -129572,6 +129567,7 @@ p2hn.nxvi538uztec7h125.cyou
 p2muoczf5.com
 p2p-punch-v6.xxpkg.com
 p2p-punch.xxpkg.com
+p2p.huya.com
 p2p.qq.com
 p2pdh.com
 p2perrorlog.douyucdn.cn
@@ -134057,7 +134053,6 @@ pneu.mundialpneus.com.br
 pneumahameil.com
 pnfkhu.hygi.de
 pngflow.com
-pngme.ru
 pnhesw.jtb.co.jp
 pnhlhtqlte.cfd
 pnkas.kiki.world
@@ -140377,7 +140372,6 @@ r2---sn-aigl6nz7.c.2mdn.net
 r2---sn-aigl6nze.c.2mdn.net
 r2---sn-aigl6nzl.c.2mdn.net
 r2---sn-aigl6nzr.c.2mdn.net
-r2---sn-aigl6nzs.c.2mdn.net
 r2---sn-aigzrn76.c.2mdn.net
 r2---sn-aigzrn7e.c.2mdn.net
 r2---sn-aigzrn7s.c.2mdn.net
@@ -140793,7 +140787,6 @@ r3---sn-aigl6nz7.c.2mdn.net
 r3---sn-aigl6nze.c.2mdn.net
 r3---sn-aigl6nzl.c.2mdn.net
 r3---sn-aigl6nzr.c.2mdn.net
-r3---sn-aigl6nzs.c.2mdn.net
 r3---sn-aigzrn76.c.2mdn.net
 r3---sn-aigzrn7d.c.2mdn.net
 r3---sn-aigzrn7e.c.2mdn.net
@@ -148618,6 +148611,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -165897,6 +165891,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -167352,7 +167347,6 @@ sn-aigl6nz7.c.2mdn.net
 sn-aigl6nze.c.2mdn.net
 sn-aigl6nzl.c.2mdn.net
 sn-aigl6nzr.c.2mdn.net
-sn-aigl6nzs.c.2mdn.net
 sn-aigzrn7d.c.2mdn.net
 sn-aigzrnse.c.2mdn.net
 sn-aigzrnss.c.2mdn.net
@@ -174359,7 +174353,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -176593,7 +176587,6 @@ sst.inaessentials.si
 sst.inaessentials.sk
 sst.incorposul.com.br
 sst.increaseroastreeservicemarketing.com
-sst.incrediblecarebd.com
 sst.indebiesboschhal.nl
 sst.independent-racing.com
 sst.indiaroyale.dk
@@ -176823,7 +176816,6 @@ sst.kinibobd.com
 sst.kinscare.org
 sst.kinshipbaby.com
 sst.kitabay.com
-sst.kitetherapiesbd.com
 sst.kleineskraftwerk.de
 sst.kleinewolke.biz
 sst.klifo.com
@@ -178170,7 +178162,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -187164,6 +187155,7 @@ suhfnjm.com
 suhkxbszepout.online
 suhvoulwtaxfj.site
 suicidalruse.com
+suijidaohxl.top
 suinebrahman.cfd
 suitablecondemntin.com
 suitcase890.top
@@ -193839,6 +193831,7 @@ tip-ads.de
 tipburnhot.shop
 tipcompoundextreme.com
 tipeaivers.qpon
+tipgoof.live
 tipmenplaits.cyou
 tippcom01.tipp24.com
 tips.shouji.sogou.com
@@ -198668,7 +198661,6 @@ tracking.contentmarketing.hibu.com
 tracking.continuingstudies.wisc.edu
 tracking.controleodonto.com.br
 tracking.converthub.de
-tracking.corsetbd.com
 tracking.corteva.ca
 tracking.corteva.com
 tracking.corteva.de
@@ -204405,7 +204397,6 @@ unhealthyirreparable.com
 unhealthystickevents.com
 unhonednorbert.cfd
 unhoodsgluily.cyou
-uni.uniquetimezone.com
 unibet.demdex.net
 unibots.cpm.ak-is2.net
 unibots.in
@@ -213865,7 +213856,6 @@ wrxdsplmtfwzp.space
 wrxixuknpvjxm.website
 wrxuuw.delivery
 wrysrtitoqbgn.online
-wrysslfwwaimye.com
 wrztsf.dasique.co.kr
 ws-analytics.sogei.it
 ws-assets.zoominfo.com
@@ -214386,7 +214376,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -223216,6 +223205,7 @@ zzdvsgnxamcmq.website
 zzfikyawmqtmw.website
 zzfmo.getyourwaggleon.com
 zzfsli.tom-tailor.ru
+zzfxfz.com
 zzghp.velotricbike.com
 zzhengre.com
 zzhizbzowrzlvy.com
