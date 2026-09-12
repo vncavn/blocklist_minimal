@@ -7283,7 +7283,6 @@ ad.adition.com
 ad.adjw.co.kr
 ad.adkova.com
 ad.admine.co.kr
-ad.adnow.com
 ad.adpon-affi.net
 ad.adpon.jp
 ad.adriver.ru
@@ -15218,6 +15217,7 @@ alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -22077,6 +22077,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -28151,7 +28152,6 @@ biaxalwoibe.com
 bibeidh46.cc
 bibeidh48.cc
 bibglj.timberland.fr
-bibigor.com
 bibincom.com
 bibleearthquake.com
 bibrhubxbyyfq.site
@@ -35119,6 +35119,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -35259,6 +35260,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -37211,7 +37213,6 @@ clesor.uoecollection.com
 clevelreports.youbora.com
 cleverads.vn
 cleveradvertising.com
-clevergirlscollective.com
 clevernet.vn
 clevernetwork.pt
 clevernt.com
@@ -37890,7 +37891,6 @@ clients.aon.com
 clients.fitanalytics.com
 clients.net.anwalt.de
 clients.rainkingonline.com
-clients.streamwood.ru
 clients.tbadni.com
 clients.tbllem.com
 clientsdk.luminatinet.com
@@ -44478,6 +44478,7 @@ d.islandloot.com
 d.isototaal.nl
 d.jeremyloreau.com
 d.joborwebshop.hu
+d.jobs.kpn.com
 d.joinhoney.com
 d.jricards.com
 d.justdrinks.se
@@ -64382,7 +64383,9 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -69654,6 +69657,7 @@ gamfqcmtvplca.space
 gamial.com
 gamigoads.com
 gaming-adult.com
+gaming-trending-news.com
 gaming.optimove.net
 gaming001.site
 gamingadlt.com
@@ -71741,6 +71745,7 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -102641,7 +102646,6 @@ load.sst.planinternational.nl
 load.sst.polonious-systems.com
 load.sst.poolfence.com
 load.sst.pot-verhuizingen.nl
-load.sst.powerimport.nl
 load.sst.pranarestaurant.co.uk
 load.sst.pre-prod.nl.toolstation.dev
 load.sst.pressienails.com
@@ -118090,6 +118094,7 @@ mtjmg.blade-city.com
 mtkfqq89yx51qye.cfd
 mtklngjjpzpwq.space
 mtkrf.wrangler.com
+mtksabgttuwis.com
 mtktz.tryinda.com
 mtkure.gazin.com.br
 mtleu.mechewellness.com
@@ -121840,6 +121845,7 @@ nominatedefendant.com
 nomnom.maaltijdservice.nl
 nomornaling.com
 nomqpopwibcln.website
+nomsc.kpn.com
 non.li
 nonaircise.com
 nonchalancefireextinguishersuperhero.com
@@ -133761,6 +133767,7 @@ player.collectiveaudience.co
 player.ex.co
 player.fatchilli.media
 player.gliacloud.com
+player.hb.selectmedia.asia
 player.kmpmedia.net
 player.mediafuse.com
 player.playstream.media
@@ -134747,7 +134754,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -136880,7 +136886,6 @@ pu3xxlqjr.com
 pu4.biz
 pu550ev.com
 pu985ev.com
-puabvo.com
 puadf.spanx.ca
 puata.info
 puavfy.host
@@ -145173,7 +145178,6 @@ rivestimentiplastici.it
 riveter29.com
 riveter35.top
 rivinanuncius.cfd
-rivne.space
 rivuletpirns.com
 riwkmo.spacemarket.com
 riwnmh.novasol.co.uk
@@ -148077,7 +148081,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpmsrv.com
 s.draqarys.com
 s.dreamland-plc.com
@@ -148709,7 +148712,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -160828,7 +160830,6 @@ shoalednance.cfd
 shoalsbrowed.cfd
 shockdefined.com
 shocked-failure.com
-shocked-home.com
 shockedguard.com
 shocking-honey.com
 shockinggrass.com
@@ -162478,6 +162479,7 @@ smac-ad.com
 smac-ssp.com
 smacfxrtfwqgdi.com
 smackedtapnet.com
+smaclick.com
 smad.ms.zhangyue.net
 smade.otisopse.com
 smade.quellilainitaly.com
@@ -168334,6 +168336,7 @@ solutions.visaacceptance.com
 solutions.wellspring.com
 solutions2.risk.lexisnexis.com
 solutionsadultes.com
+solutionshindsight.net
 soluz.luxskin.co
 solvebots.com
 solvely.ai
@@ -168904,6 +168907,7 @@ sonar-vie.xx.fbcdn.net
 sonar-vie1-1.xx.fbcdn.net
 sonar-waw2-1.xx.fbcdn.net
 sonar-waw2-2.xx.fbcdn.net
+sonar-xxb1-1.xx.fbcdn.net
 sonar-xxc1-1.xx.fbcdn.net
 sonar-yyz.xx.fbcdn.net
 sonar-yyz1-1.xx.fbcdn.net
@@ -169099,6 +169103,7 @@ sonar6-tpe1-1.xx.fbcdn.net
 sonar6-vie1-1.xx.fbcdn.net
 sonar6-waw2-1.xx.fbcdn.net
 sonar6-waw2-2.xx.fbcdn.net
+sonar6-xxb1-1.xx.fbcdn.net
 sonar6-xxc1-1.xx.fbcdn.net
 sonar6-yyz1-1.xx.fbcdn.net
 sonar6-zrh1-1.xx.fbcdn.net
@@ -169253,7 +169258,6 @@ source-ed91a21bf0.dastelefonbuch.de
 source.advisible.com
 source.bidgear.com
 source.codacy.com
-source.youxiaoad.com
 sourceauditoriumassure.com
 sourcecode.pro
 sourcecodeapp.com
@@ -176687,6 +176691,7 @@ sst.inaessentials.si
 sst.inaessentials.sk
 sst.incorposul.com.br
 sst.increaseroastreeservicemarketing.com
+sst.incrediblecarebd.com
 sst.indebiesboschhal.nl
 sst.independent-racing.com
 sst.indiaroyale.dk
@@ -176916,6 +176921,7 @@ sst.kinibobd.com
 sst.kinscare.org
 sst.kinshipbaby.com
 sst.kitabay.com
+sst.kitetherapiesbd.com
 sst.kleineskraftwerk.de
 sst.kleinewolke.biz
 sst.klifo.com
@@ -178262,6 +178268,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -187255,7 +187262,6 @@ suhfnjm.com
 suhkxbszepout.online
 suhvoulwtaxfj.site
 suicidalruse.com
-suijidaohxl.top
 suinebrahman.cfd
 suitablecondemntin.com
 suitcase890.top
@@ -187865,6 +187871,7 @@ svtmo.heidicarey.com
 svtrd.com
 svubht.juguetilandia.com
 svubt.sistaco.com
+svvetmlkp.com
 svvgztohvzxoj.online
 svvol.eastwood.com
 svw.mybluehost.me
@@ -190274,6 +190281,7 @@ tag.woodsindianmotorcycle.com
 tag.xchat.xfinity.com
 tag.yakarouler.com
 tag.zhupiter.com
+tag2.uwv.nl
 tag4arm.com
 tagadmin.aumago.com
 tagan.adlightning.com
@@ -197240,6 +197248,7 @@ track.dalenetwork.com
 track.daly2024.com
 track.dariuslukas.com
 track.datacenterworld.com
+track.ddmanager.ru
 track.dealextremist.com
 track.debbicarberry.com.au
 track.debenhams.ie
@@ -198764,6 +198773,7 @@ tracking.contentmarketing.hibu.com
 tracking.continuingstudies.wisc.edu
 tracking.controleodonto.com.br
 tracking.converthub.de
+tracking.corsetbd.com
 tracking.corteva.ca
 tracking.corteva.com
 tracking.corteva.de
@@ -200272,6 +200282,7 @@ traker.fundacoessemcomplicacoes.com.br
 traker.karenrosebusiness.com.br
 traker.leonardomariani.com.br
 traker.pinkplus.com.br
+trakit25.com
 trakit31.com
 trakken.de
 trakkr.ai
@@ -204504,6 +204515,7 @@ unhealthyirreparable.com
 unhealthystickevents.com
 unhonednorbert.cfd
 unhoodsgluily.cyou
+uni.uniquetimezone.com
 unibet.demdex.net
 unibots.cpm.ak-is2.net
 unibots.in
@@ -221337,7 +221349,6 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
-z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
