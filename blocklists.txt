@@ -1648,6 +1648,7 @@
 3s7m2ss7g.com
 3s8rz1nq6yw.nightowl.app
 3sd6w6oga9.com
+3site-rss.s3-ap-northeast-1.amazonaws.com
 3spt74.lol
 3sqvexc60y.com
 3t4j5adg9x.com
@@ -7775,6 +7776,7 @@ ad.uwm.edu
 ad.v6.kuaishou.cn
 ad.vacanceo.com
 ad.val.jp
+ad.velomania.ru
 ad.vera.bet.br
 ad.verda2.akadns.net
 ad.video-mech.ru
@@ -10098,7 +10100,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -15213,6 +15214,7 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -22072,6 +22074,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -34633,6 +34636,7 @@ cdn.d2-apps.net
 cdn.datateam.co.uk
 cdn.datawrkz.com
 cdn.dawplm.com
+cdn.ddmanager.ru
 cdn.debugbear.com
 cdn.deepintent.com
 cdn.defractal.com
@@ -35111,6 +35115,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -38396,7 +38401,6 @@ clurdfsagmfjh.space
 cluster.awmdelivery.com
 cluster.criare.realizaambientes.com.br
 cluster.gralhaimoveis.com.br
-cluster.imoveiscitalli.com.br
 cluster.xhspot.com
 clustercolocate.com
 clusterdaint.shop
@@ -39754,7 +39758,6 @@ colossaltroubledknocked.com
 colossusssp.com
 colourfulplayerperspective.com
 colourmingle.com
-colsonslandscaping.com
 colterstrisect.com
 coltlimb.com
 columbiahealthcaredatabreach.e.epiqnotification.com
@@ -52583,7 +52586,6 @@ deeplink.mobileapptracking.com
 deeplinks.mindtickle.com
 deeplyangrily.com
 deepmetrix.com
-deeppquiz.ru
 deepprostore.com
 deepretainer.com
 deepseeks.ai
@@ -57040,7 +57042,6 @@ duomai.com
 duomeng.cn
 duomeng.net
 duomeng.org
-duomic.cc
 duop.safetygenius.co.nz
 duopodbanshee.cfd
 duotypesleeted.com
@@ -62706,6 +62707,7 @@ event-tracking.deliverr.com
 event-tracking.hellohealthgroup.com
 event-tracking.samsung.com
 event-us.ssp.taxssp.com
+event-zones.com
 event.2performant.com
 event.adbrix.io
 event.adpia.vn
@@ -64369,15 +64371,12 @@ faktor.io
 fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -64564,7 +64563,6 @@ faro-collector-prod-us-east-3.grafana.net
 faro-collector-prod-us-west-0.grafana.net
 faro.civitai.com
 farriercategoryidentifier.com
-farrsfinefurniture.com
 farshake.com
 farsnails.com
 fartingpangane.shop
@@ -68091,7 +68089,6 @@ freefromads.com
 freefromads.pro
 freefungames.net
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -71736,7 +71733,6 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -74526,7 +74522,6 @@ gtm.artigo.com
 gtm.artilo.com
 gtm.artisan-xpo.be
 gtm.aruanviagens.com.br
-gtm.arufest.com.br
 gtm.arunabioma.com.br
 gtm.arunaurbanismo.com.br
 gtm.asadvassociados.com.br
@@ -74654,7 +74649,6 @@ gtm.ballem.it
 gtm.balsamoeshampoopercani.com
 gtm.bamcostore.com
 gtm.bancacerta.com
-gtm.bandaflypop.com.br
 gtm.bandopro.it
 gtm.bandsoffads.com
 gtm.bangerbutton.com
@@ -78581,7 +78575,6 @@ gtm.solarmar.com.br
 gtm.solarmine.com.br
 gtm.solarpriser.no
 gtm.solarpriser.se
-gtm.solenebuffet.com.br
 gtm.solicitafactura.com
 gtm.solidstatecoffee.com
 gtm.solo-air.it
@@ -81894,7 +81887,6 @@ highlyhighvacuum.com
 highmaidfhr.com
 highmanapts.com
 highmetrics.com
-highmotiron.live
 highnessdemon.com
 highnoongear.com
 highperformancecpm.com
@@ -83796,7 +83788,6 @@ hwdata1.aniview.com
 hwdata2.aniview.com
 hwdlloibdukny.space
 hweaugtougwvv.online
-hwepopmhhsz.com
 hwithyouryrety.org
 hwjcfesqptwfb.space
 hwjw.com
@@ -104954,6 +104945,7 @@ loinstaggerpamphlet.com
 loja.saojose.mauloniveiculos.com.br
 loja.svdseminovos.com.br
 lojinhadavivi.com
+lojlex3841t7e6w.89432tc8x7z3mmqqrlz39wr.cyou
 lojsuarokgyxv.space
 lojusypsa.com
 lok.mybluehost.me
@@ -116114,7 +116106,6 @@ mkt3261.com
 mkt51.net
 mkt941.com
 mktbqkzdzadrg.site
-mktcs.cloudapps.cisco.com
 mktdigitalbusiness.com
 mktdplp102cdn.azureedge.net
 mktg-data-proxy.realmanage.com
@@ -118082,7 +118073,6 @@ mtjmg.blade-city.com
 mtkfqq89yx51qye.cfd
 mtklngjjpzpwq.space
 mtkrf.wrangler.com
-mtksabgttuwis.com
 mtktz.tryinda.com
 mtkure.gazin.com.br
 mtleu.mechewellness.com
@@ -129677,6 +129667,7 @@ p3a-dev.bravesoftware.com
 p3a-json.bravesoftware.com
 p3lj34e33yz6ug5z.rest
 p3marketing.com
+p3p.mmstat.com
 p3p.sogou.com
 p3p.yahoo.com
 p43c4oysmb.com
@@ -130313,7 +130304,6 @@ parasiteoutdoorsmix.com
 parasolco.pxf.io
 parasolcrimefactory.com
 parazoabeirut.cyou
-parblemophaort.com
 parcelconsists.com
 parchedplay.com
 parchedsofa.com
@@ -133753,9 +133743,7 @@ player.collectiveaudience.co
 player.ex.co
 player.fatchilli.media
 player.gliacloud.com
-player.hb.selectmedia.asia
 player.kmpmedia.net
-player.mediafuse.com
 player.playstream.media
 player.powr.com
 player.quankan.tv
@@ -134740,6 +134728,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -145164,6 +145153,7 @@ rivestimentiplastici.it
 riveter29.com
 riveter35.top
 rivinanuncius.cfd
+rivne.space
 rivuletpirns.com
 riwkmo.spacemarket.com
 riwnmh.novasol.co.uk
@@ -155219,7 +155209,6 @@ server.keisenutri.com.br
 server.khaneducation.co.uk
 server.khatifarm.com
 server.khatiponno24.com
-server.khejurergur.hassanahmart.com
 server.kholzistreasure.com
 server.khulnashops.com.bd
 server.khusbooghor.com
@@ -162467,6 +162456,7 @@ smac-ad.com
 smac-ssp.com
 smacfxrtfwqgdi.com
 smackedtapnet.com
+smaclick.com
 smad.ms.zhangyue.net
 smade.otisopse.com
 smade.quellilainitaly.com
@@ -171488,6 +171478,7 @@ ss.draftbotpro.com
 ss.dreame.my
 ss.dreame.sg
 ss.dreame.ua
+ss.drecom-consulting.de
 ss.dresden.vision
 ss.drflexa.com
 ss.drinkbotanicalsireland.com
@@ -174441,7 +174432,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
@@ -176676,7 +176666,6 @@ sst.inaessentials.si
 sst.inaessentials.sk
 sst.incorposul.com.br
 sst.increaseroastreeservicemarketing.com
-sst.incrediblecarebd.com
 sst.indebiesboschhal.nl
 sst.independent-racing.com
 sst.indiaroyale.dk
@@ -176906,7 +176895,6 @@ sst.kinibobd.com
 sst.kinscare.org
 sst.kinshipbaby.com
 sst.kitabay.com
-sst.kitetherapiesbd.com
 sst.kleineskraftwerk.de
 sst.kleinewolke.biz
 sst.klifo.com
@@ -178253,7 +178241,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -186214,7 +186201,6 @@ storetail.io
 storeya.com
 storeyderived.com
 stories.automatad.com
-storiespace.com
 storiessharifs.cfd
 stork.ibite.company
 stork.notlessbutbetter.com
@@ -190253,7 +190239,6 @@ tag.uplift.com
 tag.userreport.com
 tag.vezzi.pl
 tag.vitallsportsclassics.com
-tag.viva-cruises.com
 tag.vlitag.com
 tag.voice.zetacx.net
 tag.waf360.com
@@ -191503,7 +191488,6 @@ tastercloskey.com
 tasterdinger.com
 tastesnake.com
 tastiesfoods.com
-tat.com
 tatads.com
 tatango.com
 tataritv.com
@@ -198759,7 +198743,6 @@ tracking.contentmarketing.hibu.com
 tracking.continuingstudies.wisc.edu
 tracking.controleodonto.com.br
 tracking.converthub.de
-tracking.corsetbd.com
 tracking.corteva.ca
 tracking.corteva.com
 tracking.corteva.de
@@ -204499,7 +204482,6 @@ unhealthyirreparable.com
 unhealthystickevents.com
 unhonednorbert.cfd
 unhoodsgluily.cyou
-uni.uniquetimezone.com
 unibet.demdex.net
 unibots.cpm.ak-is2.net
 unibots.in
@@ -205616,7 +205598,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -209166,6 +209147,7 @@ voelimos.cfd
 voeoeioevrhlc.online
 voeqzuuvnwpad.website
 vof.mybluehost.me
+vof8qeyv.3gnfqbitil3zl8igjlzgq2gj.cyou
 vofjek.sekoukanrijob.com
 vogcv.libelulatequila.com
 vogozae.ru
@@ -214633,6 +214615,7 @@ www.airybotsh.pro
 www.airypathsq.name
 www.akasztofa.com
 www.aldarcommunications.com
+www.allanalpass.com
 www.allinvideo.com
 www.allworldinfo5.ru
 www.almirallhcp.com
@@ -220285,7 +220268,6 @@ ylkvxrimr.com
 yllaris.com
 ylligknjyhnpr.space
 yllix.com
-ylmedicinaestetica.com
 ylmqwj.sumikominavi.com
 ylngawrywqhlt.site
 ylodbhduliqpc.online
