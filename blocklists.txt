@@ -3738,7 +3738,7 @@ a.magsrv.com
 a.mailmunch.co
 a.master98.com
 a.maxxhotel.com
-a.medialaancdn.be
+a.media
 a.medialytics.com
 a.medtronic.com
 a.meinmpp.de
@@ -10100,7 +10100,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -11537,6 +11536,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -13736,7 +13736,6 @@ afftrackr.com
 afftrk.altex.ro
 affyrtb.com
 afg.plushandoak.ca
-afga.com
 afgenqtscnbaw.space
 afghanicputime.cfd
 afgjt.smartrike.com
@@ -22072,7 +22071,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -23474,9 +23472,7 @@ asp.brightmachine.uk
 asp.dimileeh.com
 asp.goodpa.co.uk
 asp.m-live.jp
-asp.podlist.de
 asp.rikkeekelund.com
-asp.russkiyseks.vip
 asp.sepiasoft.eu
 asp.sexmy.site
 aspa8.ozmall.co.jp
@@ -34621,7 +34617,6 @@ cdn.d2-apps.net
 cdn.datateam.co.uk
 cdn.datawrkz.com
 cdn.dawplm.com
-cdn.ddmanager.ru
 cdn.debugbear.com
 cdn.deepintent.com
 cdn.defractal.com
@@ -35100,7 +35095,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -35241,7 +35235,6 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -42960,7 +42953,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -57430,7 +57422,6 @@ dxenmweujarfm.store
 dxfzoq.mittnamnhalsband.se
 dxgo95ahe73e8.cloudfront.net
 dxh2ivs16758.cloudfront.net
-dxix.cn
 dxizep.liniilubvi.ru
 dxj6cq8hj162l.cloudfront.net
 dxk5g04fo96r4.cloudfront.net
@@ -59306,7 +59297,6 @@ efsqwi.krueger-dirndl.de
 efstk.huntees.com
 efsuoodjpyxew.space
 efsy7b1x6.com
-eftd.cn
 efthjcbyvbhci.space
 eftsalexinetwitch.cyou
 efu871zc4.com
@@ -62582,7 +62572,6 @@ euthymyoglala.cyou
 eutme.livewellandfully.com
 eutrnfnm.com
 eutzh.bokksu.com
-euuh.cn
 euvdp.maxbp.com
 euvdyv.com
 euvhrz.naturestore.co.kr
@@ -79089,6 +79078,7 @@ gtm.vegalotus.com
 gtm.veic.com.br
 gtm.velofollies.be
 gtm.vemmed.com
+gtm.vendascursoonlinesf.online
 gtm.vendedoradigital.com.br
 gtm.vendedormestre.com.br
 gtm.venetianlace.com
@@ -83115,7 +83105,6 @@ hrhojxbkc2.com
 hridoy.niyeci.com
 hrient.xyz
 hrihqgbkuarzq.online
-hriy.cn
 hrjarhlgpebrw.site
 hrknqbbxmyvyo.site
 hrllzdgzyzoiy.website
@@ -95814,7 +95803,6 @@ lap-click.tr.line.me
 lap.bodycleansingbd.com
 laparfumerie.org
 lapeduzis.org
-lapj.cn
 lapkhy.aventon.com
 lapoo.net
 lapote.fr
@@ -127449,7 +127437,6 @@ onetag.tws.toyota.jp
 onetarget.ru
 onethestruis.com
 onetouch4.com
-onetouch8.info
 onetrust.techservices.illinois.edu
 onetubes.top
 onety.pl
@@ -127706,7 +127693,6 @@ ootypenimbler.shop
 oouhas.cheapcruises.com
 oouth.gooddevil.com
 oouutjpavsxfv.site
-oovnncozruz8bn9.mfwg1299ek6tjegle68fv.cyou
 oovruczakz.com
 oowqcmolqtwai.online
 oowvaygribfhj.space
@@ -129877,7 +129863,6 @@ pages.e.seahawksemail.com
 pages.email.princess.com
 pages.email.virginatlantic.com
 pages.email.yourmessage.aviva.co.uk
-pages.engage.jll.com
 pages.epom.com
 pages.erepublic.com
 pages.explore.visitqatar.com
@@ -134681,6 +134666,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -138595,7 +138581,6 @@ qjeasq.unicarioca.edu.br
 qjg4.destinia.asia
 qjgnmndhtsvks.site
 qjith.nativepet.com
-qjiz.cn
 qjjckhourpvey.site
 qjjfc.eloquii.com
 qjjgra.vendome.jp
@@ -139993,7 +139978,6 @@ r1---sn-aigl6nz7.c.2mdn.net
 r1---sn-aigl6nze.c.2mdn.net
 r1---sn-aigl6nzl.c.2mdn.net
 r1---sn-aigl6nzr.c.2mdn.net
-r1---sn-aigl6nzs.c.2mdn.net
 r1---sn-aigzrn76.c.2mdn.net
 r1---sn-aigzrn7d.c.2mdn.net
 r1---sn-aigzrn7k.c.2mdn.net
@@ -140400,7 +140384,6 @@ r2---sn-aigl6nz7.c.2mdn.net
 r2---sn-aigl6nze.c.2mdn.net
 r2---sn-aigl6nzl.c.2mdn.net
 r2---sn-aigl6nzr.c.2mdn.net
-r2---sn-aigl6nzs.c.2mdn.net
 r2---sn-aigzrn76.c.2mdn.net
 r2---sn-aigzrn7e.c.2mdn.net
 r2---sn-aigzrn7s.c.2mdn.net
@@ -141235,7 +141218,6 @@ r4---sn-aigl6nz7.c.2mdn.net
 r4---sn-aigl6nze.c.2mdn.net
 r4---sn-aigl6nzl.c.2mdn.net
 r4---sn-aigl6nzr.c.2mdn.net
-r4---sn-aigl6nzs.c.2mdn.net
 r4---sn-aigzrn76.c.2mdn.net
 r4---sn-aigzrn7d.c.2mdn.net
 r4---sn-aigzrn7l.c.2mdn.net
@@ -142926,7 +142908,6 @@ rebobfeckful.cyou
 rebootrewire.com
 rebootsormers.com
 rebrandsoftware.com
-rebsoljuhmrdy.com
 rebublicservices.com
 rebukedelinquent.com
 rebutvarment.com
@@ -143561,7 +143542,6 @@ reignstaws.qpon
 reimage.com
 reimageplus.com
 reindaks.com
-reindeer.cablemod.com
 reindeer.iainbroome.com
 reindoorway.com
 reingod.com
@@ -144641,7 +144621,6 @@ rezale.ru
 rezhiv.ru
 rezina-diski.com.ua
 rezrboarmmqmv.top
-rezxx.sbs
 rezync.com
 rf-arch.com
 rf.poripatilifebd.com
@@ -145107,7 +145086,6 @@ rivestimentiplastici.it
 riveter29.com
 riveter35.top
 rivinanuncius.cfd
-rivne.space
 rivuletpirns.com
 riwkmo.spacemarket.com
 riwnmh.novasol.co.uk
@@ -148638,6 +148616,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -162405,7 +162384,6 @@ smac-ad.com
 smac-ssp.com
 smacfxrtfwqgdi.com
 smackedtapnet.com
-smaclick.com
 smad.ms.zhangyue.net
 smade.otisopse.com
 smade.quellilainitaly.com
@@ -165918,7 +165896,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -174381,6 +174358,8 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -197168,7 +197147,6 @@ track.dalenetwork.com
 track.daly2024.com
 track.dariuslukas.com
 track.datacenterworld.com
-track.ddmanager.ru
 track.dealextremist.com
 track.debbicarberry.com.au
 track.debenhams.ie
@@ -203197,7 +203175,6 @@ uauline.net.mydays.de
 uauswagtehnwg.online
 uauwsp.warentuin.nl
 uavefhtrbkbhq.online
-uavk.cn
 uavnfdezxzote.site
 uawefo.guylook.co.kr
 uawxtipqoylci.space
@@ -205549,7 +205526,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -209423,7 +209399,6 @@ vrpiv.magnoliaboutique.com
 vrpmi.drmbernstein.com
 vrpnfrtnemmbb.space
 vrrazpdh.biz
-vrrm.cn
 vrruj.francosarto.com
 vrs.cz
 vrs.vrmedicina.com.br
@@ -212498,7 +212473,6 @@ whqkyq.leasingmarkt.de
 whqtuypvdxzdk.website
 whriwifnxuvmg.website
 whrsen.itemmania.com
-whsuvern.com
 whswprjesbewv.site
 whsyfigscmbif.space
 whuffdicers.cfd
@@ -222972,7 +222946,6 @@ zuhityfzxjhan.website
 zuidpnenuegax.site
 zuimeitianqi.inveno.com
 zujtlj.icu
-zujz.cn
 zukore.com
 zukzevqvnxels.space
 zulaedha.com
@@ -223061,7 +223034,6 @@ zvlsctfwctmhe.website
 zvlxlu.emsan.com.tr
 zvnlfj.laredoute.pt
 zvoift.autouncle.pt
-zvou.cn
 zvouv.thehistorylist.com
 zvpmktldiqxdk.site
 zvptrf.icu
