@@ -7283,7 +7283,6 @@ ad.adition.com
 ad.adjw.co.kr
 ad.adkova.com
 ad.admine.co.kr
-ad.adnow.com
 ad.adpon-affi.net
 ad.adpon.jp
 ad.adriver.ru
@@ -7715,6 +7714,7 @@ ad.site-landing.com
 ad.sitelement.sk
 ad.skylinewebcams.com
 ad.smaad.jp
+ad.smaclick.com
 ad.smartclip.net
 ad.smartinmedia.co.kr
 ad.snappea.com
@@ -7867,6 +7867,7 @@ ad2-trafficgate-net.gslb.rdcnw.net
 ad2.360yield.com
 ad2.adfarm1.adition.com
 ad2.apx.appier.net
+ad2.arixo.shop
 ad2.bannerhost.ru
 ad2.bloggerads.net
 ad2.cdns.turn.com
@@ -7921,6 +7922,7 @@ ad360.vn
 ad380.com
 ad3g.com
 ad4.adfarm1.adition.com
+ad4.arixo.shop
 ad4.bigmir.net
 ad4.com.cn
 ad4.on.cc
@@ -10100,6 +10102,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -10165,7 +10168,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -13880,7 +13882,6 @@ ag.innovid.com
 ag1.zuszw.com
 agacelebir.com
 agaenteitor.com
-againandagain.biz
 againdivine.com
 againstmascaraordinal.com
 agalmaexhedra.qpon
@@ -22076,7 +22077,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -23130,6 +23130,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -23437,7 +23438,6 @@ askfuelads.com
 askingpoint.com
 askipspackle.qpon
 asklrrpryvarf.website
-askmebefore.biz
 asknicely.com
 askprivate.com
 asksbluey.cyou
@@ -33746,7 +33746,6 @@ cashinbillions.com
 cashingonymitykavi.qpon
 cashingpostman.shop
 cashlayer.com
-cashmachines.biz
 cashmanbux.com
 cashmaneenthusiastic.com
 cashmereabove.com
@@ -35118,7 +35117,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -35259,7 +35257,6 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -37665,6 +37662,7 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -44480,6 +44478,7 @@ d.islandloot.com
 d.isototaal.nl
 d.jeremyloreau.com
 d.joborwebshop.hu
+d.jobs.kpn.com
 d.joinhoney.com
 d.jricards.com
 d.justdrinks.se
@@ -82586,7 +82585,6 @@ hollowafterthought.com
 hollowaglet.cfd
 hollowdoodleevent.com
 hollowsuspicion.com
-hollymediaa.biz
 holm.ru
 holmes.vittaderma.com
 holmeshelp.vidmate.mobi
@@ -83816,6 +83814,7 @@ hwdata1.aniview.com
 hwdata2.aniview.com
 hwdlloibdukny.space
 hweaugtougwvv.online
+hwepopmhhsz.com
 hwithyouryrety.org
 hwjcfesqptwfb.space
 hwjw.com
@@ -85809,6 +85808,7 @@ images.go.trimarkusa.com
 images.go.vertivco.com
 images.go.zopa.com
 images.goldseek.com
+images.grootzakelijk.kpn.com
 images.groupcommunications.royalmail.com
 images.h.analog.com
 images.health.hendricks.org
@@ -85909,7 +85909,6 @@ images.learn.follett.com
 images.learn.hitachiconsulting.com
 images.learn.internationalsosfoundation.org
 images.learn.pharmacyclics.com
-images.learn.queenslibrary.org
 images.learn.shredit.com
 images.learn.unisourceworldwide.com
 images.learn.vmware.com
@@ -96797,7 +96796,6 @@ letimsnami.ru
 letitnews.com
 letitredir.com
 letmeads.com
-letmenowme.biz
 letmetralala.com
 letminimalvacancy.com
 letro.jp
@@ -114944,7 +114942,6 @@ mindingerecter.cfd
 mindlytix.com
 mindmeister.kiuvix.com
 mindmemobile.com
-mindmeters.biz
 mindoccupy.com
 mindopennews.com
 mindsleep.net
@@ -121860,6 +121857,7 @@ nominatedefendant.com
 nomnom.maaltijdservice.nl
 nomornaling.com
 nomqpopwibcln.website
+nomsc.kpn.com
 non.li
 nonaircise.com
 nonchalancefireextinguishersuperhero.com
@@ -130343,6 +130341,7 @@ parasiteoutdoorsmix.com
 parasolco.pxf.io
 parasolcrimefactory.com
 parazoabeirut.cyou
+parblemophaort.com
 parcelconsists.com
 parchedplay.com
 parchedsofa.com
@@ -134459,7 +134458,6 @@ pooliakonge.cyou
 poolibeento.qpon
 poolpeephole.com
 poolplentifulefficient.com
-poolpool.biz
 poolprochem.com
 poolsmusketocoroll.cfd
 poompuhar.com
@@ -148099,7 +148097,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpmsrv.com
 s.draqarys.com
 s.dreamland-plc.com
@@ -157437,7 +157434,6 @@ sevendeer.com
 sevenedgesteve.com
 seveneleven.demdex.net
 sevenhalves.com
-sevenmeters.biz
 seventeendepressed.com
 sever.avoloshop.com
 sever.catfoodbd.shop
@@ -162499,7 +162495,6 @@ smac-ad.com
 smac-ssp.com
 smacfxrtfwqgdi.com
 smackedtapnet.com
-smaclick.com
 smad.ms.zhangyue.net
 smade.otisopse.com
 smade.quellilainitaly.com
@@ -166012,6 +166007,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -174479,6 +174475,7 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -190937,7 +190934,6 @@ taildisturbing.com
 tailfoolproof.com
 tailgetaco.com
 tailoredcopy.com
-tailstories.biz
 tailsweep.com
 tailsweep.se
 tailtarget.com
@@ -194914,6 +194910,7 @@ tocologist44.top
 tocswcbbwbnjn.space
 tod.layers-development.nl
 tod99shi.com
+toda.la
 todacell.com
 todaseries.cc
 today.alignmedicare.com
@@ -195554,7 +195551,6 @@ tpiasutbungzz.space
 tpiqbv.pixartprinting.ch
 tpiqkgzg8lmp5316h2vcg3rz7e6lgpw.cfd
 tpityiiearqla.space
-tpivd.tea-direct.co.uk
 tpiwuerxwtuyz.online
 tpjdszootpiir.online
 tpjehb.addax.com.tr
@@ -199513,6 +199509,8 @@ tracking.serptale.com
 tracking.serraplaza.com
 tracking.serraplazaevents.com
 tracking.server.bytecon.com
+tracking.service.cz.nl
+tracking.service.just.nl
 tracking.seton-sakerhet.se
 tracking.seton-signalering.nl
 tracking.seton.at
@@ -199805,6 +199803,7 @@ tracking.your.montagehealth.org
 tracking.yourtraumasutra.com
 tracking.ystadsallehanda.se
 tracking.zahnzentrum-kronberg.de
+tracking.zakelijk.cz.nl
 tracking.zalopay.vn
 tracking.zenwalk.co
 tracking.zerolatencyvr.nrw
@@ -223364,6 +223363,7 @@ zzdvsgnxamcmq.website
 zzfikyawmqtmw.website
 zzfmo.getyourwaggleon.com
 zzfsli.tom-tailor.ru
+zzfxfz.com
 zzghp.velotricbike.com
 zzhengre.com
 zzhizbzowrzlvy.com
