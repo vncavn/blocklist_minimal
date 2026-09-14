@@ -7284,6 +7284,7 @@ ad.adition.com
 ad.adjw.co.kr
 ad.adkova.com
 ad.admine.co.kr
+ad.adnow.com
 ad.adpon-affi.net
 ad.adpon.jp
 ad.adriver.ru
@@ -22235,7 +22236,6 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -23141,7 +23141,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -35161,7 +35160,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -64451,12 +64449,15 @@ faktor.io
 fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
+falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -68183,6 +68184,7 @@ freefromads.com
 freefromads.pro
 freefungames.net
 freegamezone.net
+freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -71833,6 +71835,7 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -86509,7 +86512,6 @@ img5.pcpop.com
 img5.zergnet.com
 img50.pingguolv.com
 img7.1133.cc
-img9.1133.cc
 imgad0.3conline.com
 imgad0.pconline.com.cn
 imgadpai.thepaper.cn
@@ -116282,6 +116284,7 @@ mkt3261.com
 mkt51.net
 mkt941.com
 mktbqkzdzadrg.site
+mktcs.cloudapps.cisco.com
 mktdigitalbusiness.com
 mktdplp102cdn.azureedge.net
 mktg-data-proxy.realmanage.com
@@ -130513,7 +130516,6 @@ parasiteoutdoorsmix.com
 parasolco.pxf.io
 parasolcrimefactory.com
 parazoabeirut.cyou
-parblemophaort.com
 parcelconsists.com
 parchedplay.com
 parchedsofa.com
@@ -140264,6 +140266,7 @@ r1---sn-ab5l6nry.c.2mdn.net
 r1---sn-ab5l6nrz.c.2mdn.net
 r1---sn-ab5l6ny7.c.2mdn.net
 r1---sn-ab5szn67.c.2mdn.net
+r1---sn-ab5szn6e.c.2mdn.net
 r1---sn-ab5sznld.c.2mdn.net
 r1---sn-ab5sznly.c.2mdn.net
 r1---sn-ab5sznzr.c.2mdn.net
@@ -140378,6 +140381,7 @@ r1---sn-ntqe6n7r.c.2mdn.net
 r1---sn-ntqe6nee.c.2mdn.net
 r1---sn-ntqe6nez.c.2mdn.net
 r1---sn-nv47ln6e.c.2mdn.net
+r1---sn-nv47znee.c.2mdn.net
 r1---sn-nv47znel.c.2mdn.net
 r1---sn-nx57ynsk.c.2mdn.net
 r1---sn-nx57ynsr.c.2mdn.net
@@ -140470,6 +140474,7 @@ r1---sn-qxo7rn7y.c.2mdn.net
 r1---sn-qxo7rne7.c.2mdn.net
 r1---sn-qxo7rnee.c.2mdn.net
 r1---sn-qxoedn7k.c.2mdn.net
+r1---sn-qxoednel.c.2mdn.net
 r1---sn-qxoednes.c.2mdn.net
 r1---sn-t0aedn7e.c.2mdn.net
 r1---sn-t0aekn7e.c.2mdn.net
@@ -140736,6 +140741,7 @@ r2---sn-c0q7lns7.c.2mdn.net
 r2---sn-c0q7lnsl.c.2mdn.net
 r2---sn-cvb7lnee.c.2mdn.net
 r2---sn-f5f7lnl7.c.2mdn.net
+r2---sn-gpv7yn7e.c.2mdn.net
 r2---sn-gpv7yn7l.c.2mdn.net
 r2---sn-gpv7yne6.c.2mdn.net
 r2---sn-gpv7ynee.c.2mdn.net
@@ -140875,6 +140881,7 @@ r2---sn-qxo7rn7y.c.2mdn.net
 r2---sn-qxo7rne7.c.2mdn.net
 r2---sn-qxo7rnee.c.2mdn.net
 r2---sn-qxoedn7k.c.2mdn.net
+r2---sn-qxoednel.c.2mdn.net
 r2---sn-qxoednes.c.2mdn.net
 r2---sn-t0aedn7e.c.2mdn.net
 r2---sn-t0aekn7e.c.2mdn.net
@@ -141489,6 +141496,7 @@ r4---sn-ab5l6nry.c.2mdn.net
 r4---sn-ab5l6nrz.c.2mdn.net
 r4---sn-ab5l6ny7.c.2mdn.net
 r4---sn-ab5szn67.c.2mdn.net
+r4---sn-ab5szn6e.c.2mdn.net
 r4---sn-ab5sznld.c.2mdn.net
 r4---sn-ab5sznly.c.2mdn.net
 r4---sn-ab5sznz6.c.2mdn.net
@@ -141564,6 +141572,7 @@ r4---sn-c0q7lnse.c.2mdn.net
 r4---sn-c0q7lnsl.c.2mdn.net
 r4---sn-f5fz7n7s.c.2mdn.net
 r4---sn-gpv7kne7.c.2mdn.net
+r4---sn-gpv7yn7e.c.2mdn.net
 r4---sn-gpv7yn7l.c.2mdn.net
 r4---sn-gpv7yne6.c.2mdn.net
 r4---sn-gpv7ynee.c.2mdn.net
@@ -141613,6 +141622,7 @@ r4---sn-nv47lns6.c.2mdn.net
 r4---sn-nv47lns7.c.2mdn.net
 r4---sn-nv47lnsk.c.2mdn.net
 r4---sn-nv47lnsr.c.2mdn.net
+r4---sn-nv47znee.c.2mdn.net
 r4---sn-nx57ynsk.c.2mdn.net
 r4---sn-nx57ynsr.c.2mdn.net
 r4---sn-nx57ynsy.c.2mdn.net
@@ -142105,6 +142115,7 @@ r5---sn-qxo7rn7y.c.2mdn.net
 r5---sn-qxo7rne7.c.2mdn.net
 r5---sn-qxo7rnee.c.2mdn.net
 r5---sn-qxoedn7k.c.2mdn.net
+r5---sn-qxoednel.c.2mdn.net
 r5---sn-qxoednes.c.2mdn.net
 r5---sn-t0aedn7e.c.2mdn.net
 r5---sn-t0aekn7e.c.2mdn.net
@@ -148281,7 +148292,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpmsrv.com
 s.draqarys.com
 s.dreamland-plc.com
@@ -167642,6 +167652,7 @@ sn-ab5l6nry.c.2mdn.net
 sn-ab5l6nrz.c.2mdn.net
 sn-ab5l6ny7.c.2mdn.net
 sn-ab5szn67.c.2mdn.net
+sn-ab5szn6e.c.2mdn.net
 sn-ab5sznld.c.2mdn.net
 sn-ab5sznly.c.2mdn.net
 sn-ab5sznz6.c.2mdn.net
@@ -173582,7 +173593,6 @@ ss.trythecabinet.com
 ss.trytitachef.com
 ss.trytrimi.com
 ss.trywellbe.rs
-ss.ttwgroup.org
 ss.tualmaveda.com
 ss.tucabet.com.br
 ss.tucabet.net
@@ -176899,6 +176909,7 @@ sst.inaessentials.si
 sst.inaessentials.sk
 sst.incorposul.com.br
 sst.increaseroastreeservicemarketing.com
+sst.incrediblecarebd.com
 sst.indebiesboschhal.nl
 sst.independent-racing.com
 sst.indiaroyale.dk
@@ -178474,6 +178485,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -214767,6 +214779,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -223625,7 +223638,6 @@ zzdvsgnxamcmq.website
 zzfikyawmqtmw.website
 zzfmo.getyourwaggleon.com
 zzfsli.tom-tailor.ru
-zzfxfz.com
 zzghp.velotricbike.com
 zzhengre.com
 zzhizbzowrzlvy.com
