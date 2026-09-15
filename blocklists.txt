@@ -92,6 +92,7 @@
 058d79990c.com
 0597qc.com
 05b9daf35c.com
+05block.com
 05e76a16b8.5e3d5f480f.com
 0618b93770.com
 0628ba07b4.com
@@ -4137,7 +4138,6 @@ a4.tl
 a400.adstattrack.com
 a40a0jzzxx.cfd
 a42a39a7d7.com
-a431d890c6.com
 a433.com
 a433.dailypress.com
 a43527.actonservice.com
@@ -7292,6 +7292,7 @@ ad.adition.com
 ad.adjw.co.kr
 ad.adkova.com
 ad.admine.co.kr
+ad.adnow.com
 ad.adpon-affi.net
 ad.adpon.jp
 ad.adriver.ru
@@ -7723,7 +7724,6 @@ ad.site-landing.com
 ad.sitelement.sk
 ad.skylinewebcams.com
 ad.smaad.jp
-ad.smaclick.com
 ad.smartclip.net
 ad.smartinmedia.co.kr
 ad.snappea.com
@@ -10174,6 +10174,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15221,7 +15222,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -16234,7 +16235,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-dataplane.invideo.io
@@ -23142,6 +23142,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -28056,7 +28057,6 @@ bhs.gethvppy.com
 bhs.grizzlyherb.co
 bhs.happyhemper.com
 bhs.hefestus-tech.com
-bhs.hellostacks.com
 bhs.herbdispo.com
 bhs.houseofounce.shop
 bhs.ironaminos.com
@@ -34695,7 +34695,6 @@ cdn.d2-apps.net
 cdn.datateam.co.uk
 cdn.datawrkz.com
 cdn.dawplm.com
-cdn.ddmanager.ru
 cdn.debugbear.com
 cdn.deepintent.com
 cdn.defractal.com
@@ -35314,7 +35313,6 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -37733,7 +37731,6 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -38004,7 +38001,6 @@ clipcentric-a.akamaihd.net
 clipcentric.com
 cliphot234.com
 cliphotbokep.xyz
-cliphott.com
 clipkpkamocsc.site
 clipperroutesevere.com
 clipsex2k.net
@@ -39830,6 +39826,7 @@ colossaltroubledknocked.com
 colossusssp.com
 colourfulplayerperspective.com
 colourmingle.com
+colsonslandscaping.com
 colterstrisect.com
 coltlimb.com
 columbiahealthcaredatabreach.e.epiqnotification.com
@@ -43056,6 +43053,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -64491,15 +64489,12 @@ faktor.io
 fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -68236,7 +68231,6 @@ freefromads.com
 freefromads.pro
 freefungames.net
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -71892,7 +71886,6 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -73765,6 +73758,7 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
+grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -114900,7 +114894,6 @@ mhaupz.carpisa.it
 mhbhwilson1.net.mydays.de
 mhbuc.wingbikes.com
 mhd.mybluehost.me
-mhdehwluwxlcq.com
 mhdhecithlyem.website
 mhdqv.bravosierra.com
 mhdrvicmuxzyl.site
@@ -127840,7 +127833,6 @@ onetag.tws.toyota.jp
 onetarget.ru
 onethestruis.com
 onetouch4.com
-onetouch8.info
 onetrust.techservices.illinois.edu
 onetubes.top
 onety.pl
@@ -130660,7 +130652,6 @@ parasiteoutdoorsmix.com
 parasolco.pxf.io
 parasolcrimefactory.com
 parazoabeirut.cyou
-parblemophaort.com
 parcelconsists.com
 parchedplay.com
 parchedsofa.com
@@ -148440,6 +148431,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpmsrv.com
 s.draqarys.com
 s.dreamland-plc.com
@@ -155664,7 +155656,6 @@ server.larncer.com
 server.lasanday.com.br
 server.lbconsultoria369.com
 server.ldembalagem.com.br
-server.leaderconsorcios.club
 server.learn.retirementtaxacademy.com
 server.learningtoybd.com
 server.learnow.app
@@ -161305,7 +161296,6 @@ shop.tastygains.com
 shop.thecosmeticsworldbd.com
 shop.tktxcreams.uk
 shop.totiequestrian.com
-shop.traack.com.bd
 shop.tracksmartco.com
 shop.uavalabs.com
 shop.unbreakableliberty.com
@@ -178638,7 +178628,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -201135,6 +201124,7 @@ trendbuzz.to
 trendcounter.de
 trendemon.com
 trendentrium.com
+trendii.com
 trendmd.com
 trendmd.s3.amazonaws.com
 trends.mobile.sina.cn
@@ -204809,7 +204799,6 @@ undelivered.org
 underarmourinc.demdex.net
 underclick.ru
 underdog.media
-underdone.ru
 undere.com
 underestimateomelettesimilar.com
 undergobuffalowharf.com
@@ -207586,7 +207575,6 @@ vast.w.inmobi.com
 vast.wtf
 vast.yomeno.xyz
 vast2-dual-124287323.us-east-1.elb.amazonaws.com
-vastadvensentframe.click
 vastb.adwmg.com
 vastcdn.outbrain.com
 vastfairjog.live
@@ -214932,7 +214920,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -223796,6 +223783,7 @@ zzdvsgnxamcmq.website
 zzfikyawmqtmw.website
 zzfmo.getyourwaggleon.com
 zzfsli.tom-tailor.ru
+zzfxfz.com
 zzghp.velotricbike.com
 zzhengre.com
 zzhizbzowrzlvy.com
