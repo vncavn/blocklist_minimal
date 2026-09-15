@@ -7292,7 +7292,6 @@ ad.adition.com
 ad.adjw.co.kr
 ad.adkova.com
 ad.admine.co.kr
-ad.adnow.com
 ad.adpon-affi.net
 ad.adpon.jp
 ad.adriver.ru
@@ -11832,7 +11831,6 @@ adsixmedia.fr
 adsjqaobchetb.space
 adsjumbo.com
 adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
-adskape.ru
 adskeeper.co.uk
 adskeeper.com
 adsklick.de
@@ -15222,7 +15220,9 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -18571,6 +18571,7 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
+analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -22085,6 +22086,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -22233,6 +22235,7 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -52351,6 +52354,7 @@ dd388242094.top
 dd56f6c93d.415f764d57.com
 dd6ym5in4ovm3.cloudfront.net
 dd6zx4ibq538k.cloudfront.net
+dd713.bj.bcebos.com
 dd81bp3qbj.com
 dd9l0474.de
 ddacn6pr5v0tl.cloudfront.net
@@ -73752,6 +73756,7 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
+grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -138625,7 +138630,6 @@ qcl.lumar-haus.at
 qclicktrk.com
 qcloud-sg-datareceiver.kurogame.xyz
 qclrz.harvesthosts.com
-qcmkz.smartliner-usa.com
 qcmlcwymvatsn.site
 qcmtxdjqftulh.site
 qcmxuy.hardloop.de
@@ -140297,7 +140301,6 @@ r0eybo511.com
 r0hpdbkqs.com
 r1---sn-2gb7snez.c.2mdn.net
 r1---sn-2imern7r.c.2mdn.net
-r1---sn-2imeyn7k.c.2mdn.net
 r1---sn-2imeyn7r.c.2mdn.net
 r1---sn-2o5ua5-53.c.2mdn.net
 r1---sn-2o5ua5-5h.c.2mdn.net
@@ -140502,7 +140505,6 @@ r1---sn-hp57ynss.c.2mdn.net
 r1---sn-hpa7kn76.c.2mdn.net
 r1---sn-hpa7knld.c.2mdn.net
 r1---sn-hpa7zn66.c.2mdn.net
-r1---sn-hpa7zn6d.c.2mdn.net
 r1---sn-hpa7zns6.c.2mdn.net
 r1---sn-n4v7snee.c.2mdn.net
 r1---sn-n4v7sney.c.2mdn.net
@@ -140540,7 +140542,6 @@ r1---sn-ojqxo5-5j.c.2mdn.net
 r1---sn-ojqxo5-5q.c.2mdn.net
 r1---sn-ojtt15-54.c.2mdn.net
 r1---sn-ojvgq5-cv.c.2mdn.net
-r1---sn-p5qddn7d.c.2mdn.net
 r1---sn-p5qddn7k.c.2mdn.net
 r1---sn-p5qddn7z.c.2mdn.net
 r1---sn-p5qlsn6s.c.2mdn.net
@@ -140706,7 +140707,6 @@ r1jprcr42.com
 r1stpps434.cfd
 r1ztni.oui.sncf
 r2---sn-2imern7r.c.2mdn.net
-r2---sn-2imeyn7k.c.2mdn.net
 r2---sn-2imeyn7r.c.2mdn.net
 r2---sn-2o5ua5-53.c.2mdn.net
 r2---sn-2o5ua5-5b.c.2mdn.net
@@ -140939,7 +140939,6 @@ r2---sn-ojqxo5-5j.c.2mdn.net
 r2---sn-ojtt15-54.c.2mdn.net
 r2---sn-ojvgq5-c9.c.2mdn.net
 r2---sn-ojvgq5-cv.c.2mdn.net
-r2---sn-p5qddn7d.c.2mdn.net
 r2---sn-p5qddn7k.c.2mdn.net
 r2---sn-p5qddn7z.c.2mdn.net
 r2---sn-p5qlsn6s.c.2mdn.net
@@ -141110,7 +141109,6 @@ r2pnq.montecarlovirtualtour.com
 r2r.utas.edu.au
 r2y5i6h9jjxhtm5hiz.cfd
 r3---sn-2imern7r.c.2mdn.net
-r3---sn-2imeyn7k.c.2mdn.net
 r3---sn-2imeyn7r.c.2mdn.net
 r3---sn-2o5ua5-53.c.2mdn.net
 r3---sn-2o5ua5-5b.c.2mdn.net
@@ -141323,7 +141321,6 @@ r3---sn-hpa7kn76.c.2mdn.net
 r3---sn-hpa7kn7d.c.2mdn.net
 r3---sn-hpa7knld.c.2mdn.net
 r3---sn-hpa7zn66.c.2mdn.net
-r3---sn-hpa7zn6d.c.2mdn.net
 r3---sn-hpa7zns6.c.2mdn.net
 r3---sn-hxa76n7s.c.2mdn.net
 r3---sn-n4v7snee.c.2mdn.net
@@ -141362,7 +141359,6 @@ r3---sn-ojqxo5-5q.c.2mdn.net
 r3---sn-ojtt15-54.c.2mdn.net
 r3---sn-ojvgq5-c9.c.2mdn.net
 r3---sn-ojvgq5-cv.c.2mdn.net
-r3---sn-p5qddn7d.c.2mdn.net
 r3---sn-p5qddn7k.c.2mdn.net
 r3---sn-p5qddn7z.c.2mdn.net
 r3---sn-p5qlsn6s.c.2mdn.net
@@ -141732,7 +141728,6 @@ r4---sn-hpa7kn76.c.2mdn.net
 r4---sn-hpa7kn7d.c.2mdn.net
 r4---sn-hpa7knld.c.2mdn.net
 r4---sn-hpa7zn66.c.2mdn.net
-r4---sn-hpa7zn6d.c.2mdn.net
 r4---sn-hpa7zns6.c.2mdn.net
 r4---sn-hpa7znsz.c.2mdn.net
 r4---sn-hxa76n7s.c.2mdn.net
@@ -141772,7 +141767,6 @@ r4---sn-ojhoai-5a.c.2mdn.net
 r4---sn-ojqxo5-5q.c.2mdn.net
 r4---sn-ojtt15-54.c.2mdn.net
 r4---sn-ojvgq5-c9.c.2mdn.net
-r4---sn-p5qddn7d.c.2mdn.net
 r4---sn-p5qddn7z.c.2mdn.net
 r4---sn-p5qlsn6s.c.2mdn.net
 r4---sn-p5qlsn6z.c.2mdn.net
@@ -141933,7 +141927,6 @@ r4uj20yt2u.com
 r4uws5iu3g.com
 r4you.co
 r5---sn-2imern7r.c.2mdn.net
-r5---sn-2imeyn7k.c.2mdn.net
 r5---sn-2imeyn7r.c.2mdn.net
 r5---sn-2o5ua5-53.c.2mdn.net
 r5---sn-2o5ua5-5h.c.2mdn.net
@@ -142132,7 +142125,6 @@ r5---sn-hp57ynss.c.2mdn.net
 r5---sn-hpa7kn7d.c.2mdn.net
 r5---sn-hpa7knld.c.2mdn.net
 r5---sn-hpa7zn66.c.2mdn.net
-r5---sn-hpa7zn6d.c.2mdn.net
 r5---sn-hpa7zns6.c.2mdn.net
 r5---sn-hpa7znsz.c.2mdn.net
 r5---sn-hxa76n7s.c.2mdn.net
@@ -142168,7 +142160,6 @@ r5---sn-ojqxo5-5j.c.2mdn.net
 r5---sn-ojqxo5-5q.c.2mdn.net
 r5---sn-ojtt15-54.c.2mdn.net
 r5---sn-ojvgq5-cv.c.2mdn.net
-r5---sn-p5qddn7d.c.2mdn.net
 r5---sn-p5qddn7k.c.2mdn.net
 r5---sn-p5qddn7z.c.2mdn.net
 r5---sn-p5qlsn6s.c.2mdn.net
@@ -156700,8 +156691,6 @@ server.styleloopbd.com
 server.sublimadigital.com.br
 server.sublimemoveis.com.br
 server.subway777.com
-server.subwayarcadebrasil.com
-server.subwaygoldbrasil.com
 server.subwaynacional.com.br
 server.sucessodontoselect.com.br
 server.sud.bardapraia.com.pt
@@ -167695,7 +167684,6 @@ smyvbs.jyu-g.co.jp
 smzdm.soboten.com
 smzvdx.bauhaus.hu
 sn-2imern7r.c.2mdn.net
-sn-2imeyn7k.c.2mdn.net
 sn-2imeyn7r.c.2mdn.net
 sn-2o5ua5-53.c.2mdn.net
 sn-2o5ua5-5b.c.2mdn.net
@@ -167878,7 +167866,6 @@ sn-hp57ynss.c.2mdn.net
 sn-hpa7kn7d.c.2mdn.net
 sn-hpa7knld.c.2mdn.net
 sn-hpa7zn66.c.2mdn.net
-sn-hpa7zn6d.c.2mdn.net
 sn-hpa7zns6.c.2mdn.net
 sn-n4v7snee.c.2mdn.net
 sn-n4v7sney.c.2mdn.net
@@ -167910,7 +167897,6 @@ sn-ojqxo5-5q.c.2mdn.net
 sn-ojtt15-54.c.2mdn.net
 sn-ojvgq5-c9.c.2mdn.net
 sn-ojvgq5-cv.c.2mdn.net
-sn-p5qddn7d.c.2mdn.net
 sn-p5qddn7k.c.2mdn.net
 sn-p5qddn7z.c.2mdn.net
 sn-p5qlsn6s.c.2mdn.net
@@ -171901,6 +171887,7 @@ ss.dustapro.com
 ss.dustavacuum.com
 ss.duurzaamxl.nl
 ss.dyadlaw.com
+ss.dynamicmarketing.com.mx
 ss.e-home.dk
 ss.e-ita.org
 ss.e-kwiaty.pl
@@ -204996,7 +204983,6 @@ universityroadsidecircumstantial.com
 universityshocksooner.com
 uniwearuvid.cfd
 uniworth.ca
-unjckakmfywf.com
 unjfhsdntducr.website
 unjnxrzonftrw.online
 unjrkrxme.com
@@ -214917,6 +214903,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -223779,7 +223766,6 @@ zzdvsgnxamcmq.website
 zzfikyawmqtmw.website
 zzfmo.getyourwaggleon.com
 zzfsli.tom-tailor.ru
-zzfxfz.com
 zzghp.velotricbike.com
 zzhengre.com
 zzhizbzowrzlvy.com
