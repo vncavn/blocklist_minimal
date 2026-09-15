@@ -7724,7 +7724,6 @@ ad.site-landing.com
 ad.sitelement.sk
 ad.skylinewebcams.com
 ad.smaad.jp
-ad.smaclick.com
 ad.smartclip.net
 ad.smartinmedia.co.kr
 ad.snappea.com
@@ -10110,6 +10109,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -14282,10 +14282,10 @@ aichouphaugn.com
 aickw1c4w.com
 aiclk.com
 aicod.dondi.it
-aicontents.net
 aicpa.demdex.net
 aid-ad.jp
 aid.send.microad.jp
+aid10.top
 aidata.io
 aidc.barcodesgroup.com
 aiddut.particleformen.com
@@ -23142,6 +23142,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -35180,6 +35181,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -35469,7 +35471,6 @@ cdnflow.co
 cdnfreemalva.com
 cdngain.com
 cdnil.clarisite.com
-cdnimg.liehu.ijinshan.com
 cdnis.hyperpromote.com
 cdnjs.atresmedia.com
 cdnjs.contentsprinter.xyz
@@ -37286,7 +37287,6 @@ clesor.uoecollection.com
 clevelreports.youbora.com
 cleverads.vn
 cleveradvertising.com
-clevergirlscollective.com
 clevernet.vn
 clevernetwork.pt
 clevernt.com
@@ -43065,6 +43065,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -71917,7 +71918,6 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -85486,6 +85486,7 @@ ijgtudf.kozii.com
 ijh.mybluehost.me
 ijhlca.lulus.com
 ijifwb.green-acres.fr
+ijinshan.com
 ijjlo.raphablends.com
 ijjnyauzmqxoq.website
 ijjsmjnngmrxc.online
@@ -110572,7 +110573,6 @@ mdws.prospera.ca
 mdws.provincehouse.com
 mdws.provincialcu.com
 mdws.pscu.ca
-mdws.revcu.com
 mdws.rpcul.com
 mdws.samplecu.com
 mdws.sascu.com
@@ -114620,6 +114620,7 @@ metrics.youandyourwedding.co.uk
 metrics.yourlexusdealer.com
 metrics.yourshowdown.com
 metrics.yy.com
+metrics.zaansprint.nl
 metrics.zacks.com
 metrics.zales.com
 metrics.zalesoutlet.com
@@ -134639,6 +134640,7 @@ pocustrack.com
 poczta.optad360.com
 pod.xpress.com
 pod.xxxconnect.com
+pod02.imailzone.com
 podatki.avtosi.si
 podawacz.cmcmedia.pl
 podbex.com
@@ -146213,7 +146215,6 @@ rostesweha.magasinetfilter.se
 rostesweha.offside.org
 rostesweha.tidningenskriva.se
 rosy-award.pro
-rot.rusoul.ru
 rot.spotsniper.ru
 rot0.a8.net
 rot1.a8.net
@@ -148504,6 +148505,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpmsrv.com
 s.draqarys.com
 s.dreamland-plc.com
@@ -149135,6 +149137,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -155279,6 +155282,7 @@ server.franquiasd.com
 server.franveiculosbb.com.br
 server.freelanz.app
 server.freitastcg.com.br
+server.frmoveis.com
 server.fuhrosouto.com.br
 server.fullgarage.com.br
 server.funduptrading.com
@@ -161983,7 +161987,6 @@ simpleworld.online
 simpli.fi
 simpliftsbefore.info
 simplify.razorsync.com
-simplistic-fold.com
 simplistic-recover.com
 simplisticpride.com
 simply-chocolate.pxf.io
@@ -174902,7 +174905,6 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -178710,7 +178712,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -192488,6 +192489,7 @@ tdsworkout.com
 tdt.dansktandforsikring.dk
 tdtc.shop
 tdtfga.healingpinesrecovery.com
+tdum.alibaba.com
 tdusj.sportsetrvc.com
 tduzo.novalights.com.au
 tdwxnm.watch
@@ -198669,7 +198671,6 @@ trackedlink.net
 trackedweb.net
 tracker-00.qvb.qcloud.com
 tracker-2.com
-tracker-663174376.us-east-1.elb.amazonaws.com
 tracker-aa.paf.com
 tracker-aa.paf.es
 tracker-aa.pafbet.lv
@@ -215011,7 +215012,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -223889,6 +223889,7 @@ zzdvsgnxamcmq.website
 zzfikyawmqtmw.website
 zzfmo.getyourwaggleon.com
 zzfsli.tom-tailor.ru
+zzfxfz.com
 zzghp.velotricbike.com
 zzhengre.com
 zzhizbzowrzlvy.com
