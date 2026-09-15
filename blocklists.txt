@@ -1654,6 +1654,7 @@
 3s7m2ss7g.com
 3s8rz1nq6yw.nightowl.app
 3sd6w6oga9.com
+3site-rss.s3-ap-northeast-1.amazonaws.com
 3spt74.lol
 3sqvexc60y.com
 3t4j5adg9x.com
@@ -14389,7 +14390,6 @@ aincrd.champstudy.com
 ainqe.tonaactive.com
 ainrrojwogdkv.store
 ainsyndication.com
-ainu.intel.sg
 ainu.intel.vn
 ainudez.com
 aio.media
@@ -15108,6 +15108,7 @@ aliascagesboxer.com
 aliasfoot.com
 aliaspresumerudder.com
 alib.nine.com.au
+alibabagroup.obs.cn-north-1.myhuaweicloud.com
 alibabalearning.com
 alibabato.com
 alibabr.com
@@ -15220,7 +15221,6 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -16233,7 +16233,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-dataplane.invideo.io
@@ -23385,6 +23384,7 @@ asia-vpushort-stsdk.vivoglobal.com
 asia.adform.net
 asia.creativecdn.com
 asia.marketo.com
+asia.obs.cn-north-1.myhuaweicloud.com
 asiacpx.com
 asiadesignprize.com
 asiafriendfinder.com
@@ -32832,8 +32832,6 @@ candyjelly.com
 candyoffers.com
 candywarehouse.evergage.com
 cane.intel.cn
-cane.intel.co.jp
-cane.intel.co.kr
 cane.intel.co.uk
 cane.intel.com
 cane.intel.com.au
@@ -32841,7 +32839,6 @@ cane.intel.com.br
 cane.intel.com.tr
 cane.intel.com.tw
 cane.intel.de
-cane.intel.es
 cane.intel.fr
 cane.intel.in
 cane.intel.it
@@ -32888,6 +32885,7 @@ canttouchme.broring.com
 canttouchme.estagencymarbella.com
 canttouchme.head-boards.nl
 canuckgateage.shop
+canva.obs.cn-north-1.myhuaweicloud.com
 canva.pxf.io
 canvas.choozle.com
 canvas.gadgetscanvas.com
@@ -34699,7 +34697,6 @@ cdn.d2-apps.net
 cdn.datateam.co.uk
 cdn.datawrkz.com
 cdn.dawplm.com
-cdn.ddmanager.ru
 cdn.debugbear.com
 cdn.deepintent.com
 cdn.defractal.com
@@ -37736,6 +37733,7 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -38768,6 +38766,7 @@ cn.hotclips.click
 cn.lucasfinanzas.cl
 cn.mt
 cn.mywd.com
+cn.obs.cn-north-1.myhuaweicloud.com
 cn.pub.vpon.com
 cn.ultraiso.net
 cn4.animehdl.net
@@ -43062,7 +43061,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -44278,7 +44276,6 @@ czzbkqsxipgtm.site
 czzhejnrhgtsc.site
 czzpv.iowtomatoes.co.uk
 d-064.com
-d-agency.net
 d-audienceiq-atl1.turn.com
 d-audienceiq-hkg1.turn.com
 d-bi.fr
@@ -55412,15 +55409,12 @@ dognet.sk
 dogo.intel.cn
 dogo.intel.co.jp
 dogo.intel.co.kr
-dogo.intel.co.uk
 dogo.intel.com.au
 dogo.intel.com.br
 dogo.intel.com.tr
 dogo.intel.com.tw
 dogo.intel.de
-dogo.intel.es
 dogo.intel.fr
-dogo.intel.in
 dogo.intel.it
 dogo.intel.la
 dogo.intel.pl
@@ -65219,6 +65213,7 @@ fdyqre.pormadeonline.com.br
 fe-au.imrworldwide.com
 fe-error.skio.com
 fe-go.letv.com
+fe-shop.cc
 fe.faisco.cn
 fe.futuroscope.com
 fe.sitedataprocessing.com
@@ -93576,7 +93571,6 @@ kdfgi.eatshameless.com
 kdfgm.belmetric.com
 kdfjglkdflg.com
 kdfjlppcvgbdj.space
-kdfxyazua.com
 kdg7d.mentor-strategii.pl
 kdhjzc.pmdbeauty.com
 kdhmzv.oculosmeninaflor.com.br
@@ -96342,6 +96336,7 @@ laytroops.com
 laz.mybluehost.me
 lazada.bet
 lazada.demdex.net
+lazada.obs.cn-north-1.myhuaweicloud.com
 lazada1688.com
 lazada77.com
 lazadaapp.shop
@@ -96926,6 +96921,7 @@ lekfso.hitohana.tokyo
 lekgm3a3z4.cfd
 leklicht.net
 lekven.jetcost.co.uk
+lel.obs.cn-north-1.myhuaweicloud.com
 lel704cjev.com
 leluhrmmslpud.store
 lem.nouvelobs.com
@@ -105017,6 +105013,7 @@ logistimatics.com
 logitech-ch.pxf.io
 logitech-it.pxf.io
 logitech-nl.pxf.io
+logitechg.obs.cn-north-1.myhuaweicloud.com
 logkm.dantocmiennui.vn
 loglady.kiwi.com
 loglady.publicbroadcasting.net
@@ -116821,6 +116818,7 @@ mo.gatsbykynurin.com
 mo.gushiji.cc
 mo.haloapps.cn
 mo.kugou.com
+mo.res.wpscdn.cn
 mo.tb2track.pro
 mo0lqi51s1.com
 mo2dll.win123888.com
@@ -120657,6 +120655,7 @@ net.jumia.ma
 net.jumia.sn
 net.jumia.ug
 net.mydays.ch
+net.obs.cn-north-1.myhuaweicloud.com
 net.rayjump.com
 net.salmonads.com
 net.sexstories69.com
@@ -127894,6 +127893,7 @@ onetag.tws.toyota.jp
 onetarget.ru
 onethestruis.com
 onetouch4.com
+onetouch8.info
 onetrust.techservices.illinois.edu
 onetubes.top
 onety.pl
@@ -135173,7 +135173,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -135582,7 +135581,6 @@ praystakeinstinct.com
 prbii.rugs-direct.com
 prbn.ru
 prbxckwtajncq.space
-prcappzone.intel.com
 prchecker.info
 prchnloyitvdf.website
 prcji.kennyflowers.com
@@ -143300,6 +143298,7 @@ realmatch.com
 realmatchllove.com
 realmedia-a592.d4p.net
 realmedia-a800.d4p.net
+realmemobile.obs.cn-north-1.myhuaweicloud.com
 realnetworks.com
 realnewslongdays.pro
 realorganrobe.com
@@ -145988,6 +145987,7 @@ robesadvertisement.com
 robin-flow.com
 robinhq.com
 roblox.com.kz
+roblox77.org
 robloxlabs.com
 robly.com
 robotbagpipe.com
@@ -148986,7 +148986,6 @@ s.rollasjeans.com
 s.rosettastone.co.kr
 s.rosettastone.com
 s.rosettastone.de
-s.rosettastone.eu
 s.rosettastone.fr
 s.rosettastone.it
 s.rsdetailing.be
@@ -149142,7 +149141,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -151019,7 +151017,6 @@ sbpzeq.lululemon.com.au
 sbr.mybluehost.me
 sbrands.lookfantastic.com
 sbrxizryixvpz.space
-sbs-ad.com
 sbs.deliveryengine.adswizz.com
 sbs.demdex.net
 sbsbetlinfevn.site
@@ -155606,6 +155603,7 @@ server.jamjammedicare.com
 server.janatargadget.com
 server.jasonbishopmagic.com
 server.javawhiskers.se
+server.jazminmais.com
 server.jbafibras.com.br
 server.jbsfashions.com
 server.jeffoliveira.com.br
@@ -171986,6 +171984,7 @@ ss.dustapro.com
 ss.dustavacuum.com
 ss.duurzaamxl.nl
 ss.dyadlaw.com
+ss.dynamicmarketing.com.mx
 ss.e-home.dk
 ss.e-ita.org
 ss.e-kwiaty.pl
@@ -193167,6 +193166,7 @@ tenadfpgwocuw.website
 tenant-content.apm.appfolio-analytics.com
 tenantrip.com
 tencent-dtv.m.cn.miaozhen.com
+tencent.obs.cn-north-1.myhuaweicloud.com
 tenchchamma.qpon
 tend-new.com
 tend-table.com
@@ -209558,6 +209558,7 @@ vn.ad.lgsmartad.com
 vn.alexajstrack.com
 vn.info.lgsmartad.com
 vn.innity.com
+vn.obs.cn-north-1.myhuaweicloud.com
 vn12345.mvapspdmpg.com
 vn168d.com
 vn268.com
@@ -211022,6 +211023,7 @@ wantmuchmorenews.com
 wantsomenews.com
 wantspunishrile.com
 wanxiangxs.cc
+wanyol.obs.cn-north-1.myhuaweicloud.com
 wao.atu.de
 wao.mybluehost.me
 waozmoee0c.com
@@ -212880,7 +212882,6 @@ whatismyipaddress.ru
 whatisuptodaynow.com
 whatisyourglam.com
 whatmore-analytics-service.ap-south-1.elasticbeanstalk.com
-whats.bz
 whatshelp.io
 whatsmycountry.com
 whatsmyip.dk
@@ -214112,7 +214113,6 @@ work.officegear.co.za
 work.rubberco.co.uk
 work.selecdoo.com
 workaccount.free.bg
-workarea2.live
 workback.net
 workbox.pk
 workday.exponential.com
@@ -223885,7 +223885,6 @@ zzdvsgnxamcmq.website
 zzfikyawmqtmw.website
 zzfmo.getyourwaggleon.com
 zzfsli.tom-tailor.ru
-zzfxfz.com
 zzghp.velotricbike.com
 zzhengre.com
 zzhizbzowrzlvy.com
