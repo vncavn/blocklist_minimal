@@ -764,6 +764,7 @@
 1m72cfole.de
 1m9o22qt9lx-sdk.rum.aliyuncs.com
 1mb71rr5oo.com
+1medicine.org
 1mi.net
 1ml8jjlv3vxulm23xnv.cfd
 1mp.mobi
@@ -7290,7 +7291,6 @@ ad.adition.com
 ad.adjw.co.kr
 ad.adkova.com
 ad.admine.co.kr
-ad.adnow.com
 ad.adpon-affi.net
 ad.adpon.jp
 ad.adriver.ru
@@ -7722,6 +7722,7 @@ ad.site-landing.com
 ad.sitelement.sk
 ad.skylinewebcams.com
 ad.smaad.jp
+ad.smaclick.com
 ad.smartclip.net
 ad.smartinmedia.co.kr
 ad.snappea.com
@@ -9972,6 +9973,7 @@ ads.adretriever.com
 ads.adservme.com
 ads.adsmartx.com
 ads.adsmedia.com
+ads.adsstack.com
 ads.adsterra.com
 ads.adstream.com.ro
 ads.adsurve.com
@@ -11541,6 +11543,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -18566,6 +18569,7 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
+analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -22232,6 +22236,7 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -23138,7 +23143,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -34695,6 +34699,7 @@ cdn.d2-apps.net
 cdn.datateam.co.uk
 cdn.datawrkz.com
 cdn.dawplm.com
+cdn.ddmanager.ru
 cdn.debugbear.com
 cdn.deepintent.com
 cdn.defractal.com
@@ -35173,7 +35178,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -35313,7 +35317,6 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -55301,6 +55304,7 @@ dnset.com
 dnsscan.shadowserver.org
 dnt-userreport.com
 dntcxzpwzgdds.space
+dntds.shop
 dnuhjo.proworldinc.com
 dnuit.makefoodsimplebook.com
 dnus40re.xyz
@@ -61571,6 +61575,7 @@ ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep2x3kiawg-sdk.rum.aliyuncs.com
 ep3.adtrafficquality.google
+epaaab.com
 epac.to
 epacash.com
 epaej.cortazu.com
@@ -81966,6 +81971,7 @@ hhjcuoyaaekut.site
 hhjmzywlpqqkb.space
 hhjow.com
 hhjtfambhvzax.site
+hhkk121.cc
 hhklc.com
 hhkld.com
 hhluvk.jetcost.pt
@@ -82851,6 +82857,7 @@ honeymoongaudyhereditary.com
 honeywarm-ss.checkoutera.com
 honeywellinternation.tt.omtrdc.net
 honeywhyvowel.com
+hongtaook.cc
 honi-moly-yami.mushroomtrack.com
 honkinggaut.com
 honorablehydrant.com
@@ -87879,6 +87886,7 @@ info.ohdparts.com
 info.ohlogistics.com
 info.onlinetech.com
 info.opsveda.com
+info.order2cash.com
 info.ortecfinance.com
 info.osiriseducational.co.uk
 info.osufoundation.org
@@ -127872,6 +127880,7 @@ onetag.tws.toyota.jp
 onetarget.ru
 onethestruis.com
 onetouch4.com
+onetouch8.info
 onetrust.techservices.illinois.edu
 onetubes.top
 onety.pl
@@ -132692,6 +132701,7 @@ pharm-24.com
 pharm-axis.com
 pharmacycoercive.com
 pharmacymarketonline.com
+pharmacyrx1.com
 pharmcash.com
 phasesassyth.cyou
 phaseshift.almagrow.com
@@ -135147,7 +135157,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -138059,7 +138068,6 @@ pvd.to
 pvdbkr.com
 pvdnugjwyrkad.website
 pvdpix.com
-pvdynatracegw01.cosmote.gr
 pveja.heydude.de
 pveldvvjrvgru.site
 pvfbav.sportler.com
@@ -138188,7 +138196,6 @@ px.ads.linkedin.com
 px.adx.opera.com
 px.anteriad.com
 px.arcspire.io
-px.cdn.creative.medialytics.com
 px.conta49.com.br
 px.demdex.net
 px.derstandard.at
@@ -145961,7 +145968,6 @@ robesadvertisement.com
 robin-flow.com
 robinhq.com
 roblox.com.kz
-roblox77.org
 robloxlabs.com
 robly.com
 robotbagpipe.com
@@ -149117,7 +149123,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -149601,6 +149606,7 @@ s82.cnzz.com
 s83.cnzz.com
 s83hzm3ak.com
 s84.cnzz.com
+s85.cnzz.com
 s86.cnzz.com
 s861531437.sc.origins.en25.com
 s87.cnzz.com
@@ -152543,6 +152549,7 @@ securetags.esriturkey.com.tr
 securetags.esriuk.com
 securetags.geotecnologias.com
 securetags.gisbaltic.eu
+securetags.igeo.com.bo
 securetags.img.com.br
 securetags.maps.com
 securetags.openware.com.kw
@@ -166417,7 +166424,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -171960,7 +171966,6 @@ ss.dustapro.com
 ss.dustavacuum.com
 ss.duurzaamxl.nl
 ss.dyadlaw.com
-ss.dynamicmarketing.com.mx
 ss.e-home.dk
 ss.e-ita.org
 ss.e-kwiaty.pl
@@ -191099,6 +191104,7 @@ tags.holosameryky.com
 tags.huurwoningen.com
 tags.huurwoningen.nl
 tags.idelreal.org
+tags.igeo.com.bo
 tags.imagin.com
 tags.immomiet.de
 tags.insforge.dev
@@ -192460,9 +192466,11 @@ tdslinetraffic.com
 tdsrilqk.dublin-chiropractic.com
 tdsrmbl.net
 tdstats.com
+tdsworkout.com
 tdt.dansktandforsikring.dk
 tdtc.shop
 tdtfga.healingpinesrecovery.com
+tdum.alibaba.com
 tdusj.sportsetrvc.com
 tduzo.novalights.com.au
 tdwxnm.watch
@@ -197698,6 +197706,7 @@ track.dalenetwork.com
 track.daly2024.com
 track.dariuslukas.com
 track.datacenterworld.com
+track.ddmanager.ru
 track.dealextremist.com
 track.debbicarberry.com.au
 track.debenhams.ie
@@ -198114,7 +198123,6 @@ track.mosaika.it
 track.motormobile.com
 track.mottom.ro
 track.movad.net
-track.mp4.center
 track.mrgugu.com
 track.msadcenter.lyv.com
 track.msadcenter.shy.com
@@ -198953,7 +198961,6 @@ tracking.888africa.com
 tracking.8mylez.com
 tracking.aapa.org
 tracking.aatkit.com
-tracking.aberdeenplc.com
 tracking.abogado.com
 tracking.abraservice.com
 tracking.abrdn.com
@@ -201181,7 +201188,6 @@ trends.mobile.sina.cn
 trends.newsmaxwidget.com
 trends.privacywall.org
 trends.revcontent.com
-trendsbongo.com
 trendypersons.com
 trenrasius.com
 trentalburrito.com
@@ -206081,6 +206087,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -212983,6 +212990,8 @@ whitelabel-https01.vs3.com
 whitelabel.media.net
 whiteline.mail.ru
 whitelist.eu
+whitellllshop.icu
+whitelllshop.icu
 whitening76.top
 whitenoisenews.com
 whitepapers.rockwellautomation.com
@@ -221047,6 +221056,7 @@ youlamedia.com
 youle55.com
 youlead.pl
 youlouk.com
+youltube.biz
 youmi.net
 younetmedia.com
 young-expert.pro
@@ -221848,6 +221858,7 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
+z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
