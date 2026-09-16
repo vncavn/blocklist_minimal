@@ -374,7 +374,6 @@
 11.96131.com.cn
 1100ad.com
 1106ca2ad4.e230ae5c2b.com
-1113dns.com
 111cn.net
 111nru7.khmyiz1v6pwj6h3.cyou
 113vod-adaptive.akamaized.net
@@ -3679,6 +3678,7 @@ a.hygienedepot.co.uk
 a.hymin.xyz
 a.iad.lpsnmedia.net
 a.icanotes.com
+a.icdol.com
 a.image.accesstrade.net
 a.img.static.youmi.net
 a.imgvc.com
@@ -7295,6 +7295,7 @@ ad.adition.com
 ad.adjw.co.kr
 ad.adkova.com
 ad.admine.co.kr
+ad.adnow.com
 ad.adpon-affi.net
 ad.adpon.jp
 ad.adriver.ru
@@ -7726,6 +7727,7 @@ ad.site-landing.com
 ad.sitelement.sk
 ad.skylinewebcams.com
 ad.smaad.jp
+ad.smaclick.com
 ad.smartclip.net
 ad.smartinmedia.co.kr
 ad.snappea.com
@@ -10110,7 +10112,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -14910,7 +14911,6 @@ al.pierrotshop.jp
 al.pripstokyo.com
 al.pro-p1.jp
 al.queenclassico.com
-al.rayell.jp
 al.rinenna.jp
 al.route-2.net
 al.ruban-de-chouchou.jp
@@ -15223,6 +15223,7 @@ alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -16234,7 +16235,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-dataplane.invideo.io
@@ -22235,6 +22235,7 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -23143,7 +23144,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -27967,6 +27967,7 @@ bhabhiporn.pro
 bhaio.teleflora.com
 bhaktapurnews.com
 bhaldailm.com
+bhaoea.cn
 bhaqobil.megacashgo.com.au
 bharalhallahs.com
 bhavkiyrxbifv.space
@@ -29544,7 +29545,6 @@ bmziog.supplyanddemand.co.uk
 bmzuyj.nifty.com
 bmzvm.dock-drop.com
 bmzzojmzu.com
-bn.adasgxsp.cc
 bn.dxlive.com
 bn.gmhdm.com
 bn.gogo.mn
@@ -31909,6 +31909,7 @@ c.35kds.com
 c.4dex.io
 c.6tuna.com
 c.aaxads.com
+c.acgshenshicha.cn
 c.adbxb.cn
 c.adexchangemachine.com
 c.admedia.com
@@ -35182,7 +35183,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -35322,6 +35322,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -38481,6 +38482,7 @@ clurdfsagmfjh.space
 cluster.awmdelivery.com
 cluster.criare.realizaambientes.com.br
 cluster.gralhaimoveis.com.br
+cluster.imoveiscitalli.com.br
 cluster.xhspot.com
 clustercolocate.com
 clusterdaint.shop
@@ -43066,7 +43068,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -71388,6 +71389,7 @@ ghzzzfbp.edibles.com
 ghzzzfbp.thegummymarket.com
 gi-client-tracking.goodgamestudios.com
 gi-js.genieessp.com
+gi.cn
 gi.xyz
 gi7a.structube.com
 gia.jd.com
@@ -71923,6 +71925,7 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -83864,6 +83867,7 @@ huntington-bank.demdex.net
 huntmad.com
 hunzlj.icu
 huo.mybluehost.me
+huoche.com.cn
 huodong.mobilem.360.cn
 huohuo.huamuwo.com
 huosp.com
@@ -84309,7 +84313,6 @@ i-sdk.mediation.unity3d.com
 i-services.ru
 i-sg.browser.heytapmobile.com
 i-sg01a.ocloud.heytapmobi.com
-i-stream.pl
 i-vengo.com
 i-vietcombank.com
 i-z-p-r.com
@@ -86580,6 +86583,7 @@ img.website-security.symantec.com
 img.xiacaidd.com
 img.xnxx.com
 img.yangshengtang123.com
+img.yingshidiguo.cn
 img.zergnet.com
 img0.egou.com
 img0.liveinternet.ru
@@ -91361,6 +91365,7 @@ jianpu.info
 jiaoben.ganji.cn
 jiaoben.xinshipu.cn
 jiaopei.com
+jiarb-zaimlon.info
 jiatoutrade.com
 jiawavgaksdbq.store
 jiayi1.oss-cn-shanghai.aliyuncs.com
@@ -99099,6 +99104,7 @@ load.cdn.clays.bar
 load.cdn.crazysheep.studio
 load.cdn.emonakroni.cz
 load.cdn.pin4dgroup.com
+load.cdn.shopithoodie.com
 load.cdn.shopnowlulu.com
 load.cdn.splaashz.com
 load.cfga.crossfly.com
@@ -102930,7 +102936,6 @@ load.sst.planinternational.nl
 load.sst.polonious-systems.com
 load.sst.poolfence.com
 load.sst.pot-verhuizingen.nl
-load.sst.powerimport.nl
 load.sst.pranarestaurant.co.uk
 load.sst.pre-prod.nl.toolstation.dev
 load.sst.pressienails.com
@@ -109532,7 +109537,6 @@ marsupial.dbcontractingltd.ca
 marsupial.kymellis.co
 martech.condenastdigital.com
 marten.countertype.com
-marten.hvs-consulting.com
 marten.joqr.co.jp
 marten.supernero.app
 martencrippled.com
@@ -130053,6 +130057,7 @@ p2hn.nxvi538uztec7h125.cyou
 p2muoczf5.com
 p2p-punch-v6.xxpkg.com
 p2p-punch.xxpkg.com
+p2p.huya.com
 p2p.qq.com
 p2pdh.com
 p2perrorlog.douyucdn.cn
@@ -130718,7 +130723,6 @@ parasiteoutdoorsmix.com
 parasolco.pxf.io
 parasolcrimefactory.com
 parazoabeirut.cyou
-parblemophaort.com
 parcelconsists.com
 parchedplay.com
 parchedsofa.com
@@ -133803,7 +133807,6 @@ pjzae.hypnoschile.com
 pjzftkxmyzuat.space
 pjzub86c38jwhy2wuwq6f.cfd
 pk.babickinazahrada.sk
-pk.i2onf43ij8ucupu.cyou
 pk1u.melanielyne.com
 pk910324e.com
 pkahpynblcscu.space
@@ -134648,7 +134651,6 @@ pocustrack.com
 poczta.optad360.com
 pod.xpress.com
 pod.xxxconnect.com
-pod02.imailzone.com
 podatki.avtosi.si
 podawacz.cmcmedia.pl
 podbex.com
@@ -135174,7 +135176,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -146530,6 +146531,7 @@ rrbsb.applevacations.com
 rrbth.beautycreationscosmetics.com.mx
 rrbzvmkzbzzok.top
 rrc.allaboutacandheating.com
+rrc.clippersbarbershop-tx.com
 rrc.redrattlercreative.com
 rrc.stephensroofing.net
 rrc.texasestateforms.com
@@ -149048,6 +149050,7 @@ s.supermaty.pl
 s.supplend.com
 s.supply.construrama.com
 s.swagprint.com
+s.syzs.qq.com
 s.t5z3w0p.com
 s.tag.moresafer.com
 s.tagstream.co.uk
@@ -155295,7 +155298,6 @@ server.funduptrading.com
 server.furnberry.com
 server.furniturecity.sg
 server.furnituredepot.sg
-server.furniturelaagbe.com
 server.fusionarena.ch
 server.fusiondripbd.com
 server.fusionlivinginterior.com
@@ -174908,7 +174910,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -178716,6 +178718,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -187713,7 +187716,6 @@ suhfnjm.com
 suhkxbszepout.online
 suhvoulwtaxfj.site
 suicidalruse.com
-suijidaohxl.top
 suinebrahman.cfd
 suitablecondemntin.com
 suitcase890.top
@@ -206107,6 +206109,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -207179,6 +207182,7 @@ v-support.free.bg
 v-vay.com
 v.58obu2vj5nrko4ki6xtwwklc4qchtcqx9h.cyou
 v.9y88.com
+v.acgshenshicha.cn
 v.adserve.tv
 v.adsrvr.org
 v.adup-tech.com
@@ -209400,6 +209404,7 @@ vlflbbqnagpac.store
 vlfw.g39gwvvv8em9jbb4735ftvywc8k.cyou
 vlfzdj.psinv.net
 vlgaj.ogee.com
+vlhpssfra.com
 vlion.cn
 vliplatform.com
 vlitag.com
@@ -221883,7 +221888,6 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
-z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
@@ -223887,7 +223891,6 @@ zzdvsgnxamcmq.website
 zzfikyawmqtmw.website
 zzfmo.getyourwaggleon.com
 zzfsli.tom-tailor.ru
-zzfxfz.com
 zzghp.velotricbike.com
 zzhengre.com
 zzhizbzowrzlvy.com
