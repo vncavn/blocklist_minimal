@@ -761,6 +761,7 @@
 1m72cfole.de
 1m9o22qt9lx-sdk.rum.aliyuncs.com
 1mb71rr5oo.com
+1medicine.org
 1mi.net
 1ml8jjlv3vxulm23xnv.cfd
 1mp.mobi
@@ -7719,7 +7720,6 @@ ad.site-landing.com
 ad.sitelement.sk
 ad.skylinewebcams.com
 ad.smaad.jp
-ad.smaclick.com
 ad.smartclip.net
 ad.smartinmedia.co.kr
 ad.snappea.com
@@ -9767,7 +9767,6 @@ ads-brand-postback.unityads.unity3d.com
 ads-bridge.pixocial.com
 ads-cdn.fptplay.net
 ads-cdn.hopper.com
-ads-cdn.tenmax.io
 ads-chi-nfl.yinzcam.com
 ads-chunks.prod.ihrhls.com
 ads-cloud.rovio.com
@@ -11538,6 +11537,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -11639,6 +11639,7 @@ adservice.google.com.np
 adservice.google.com.om
 adservice.google.com.pa
 adservice.google.com.pe
+adservice.google.com.pg
 adservice.google.com.ph
 adservice.google.com.pk
 adservice.google.com.pr
@@ -14375,7 +14376,6 @@ ainqe.tonaactive.com
 ainrrojwogdkv.store
 ainsyndication.com
 ainu.intel.sg
-ainu.intel.vn
 ainudez.com
 aio.media
 aio.mybluehost.me
@@ -15210,6 +15210,7 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
@@ -16220,6 +16221,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-dataplane.invideo.io
@@ -18554,6 +18556,7 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
+analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -22073,6 +22076,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -22219,7 +22223,6 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -23128,7 +23131,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -25956,6 +25958,7 @@ ban.tipsport.cz
 ban.tipsport.sk
 ban.zab.ru
 banamertur.com
+banan.cz
 banana.arabtoons.net
 banana.depaul.org.uk
 banana.exponencialmed.com.br
@@ -27007,7 +27010,6 @@ beacon.examiner.com
 beacon.file.force.com
 beacon.flexera-prod.aws.metafb.cloud
 beacon.flow.io
-beacon.fusioncdn.com
 beacon.fusioncdn.com.wcdnga.com
 beacon.fut.gg
 beacon.gengage.ai
@@ -27022,7 +27024,6 @@ beacon.lijit.com
 beacon.logging.zozo.com
 beacon.mailchimp.com
 beacon.makemula.ai
-beacon.mlytics.com
 beacon.my.salesforce.com
 beacon.myenovate.com
 beacon.nc-net.or.jp
@@ -31569,7 +31570,6 @@ bvupjqkxxrgqr.space
 bvvgl.thepaystubs.com
 bvwsvjhpbmzvj.space
 bvxvwb.miniwebshop.hu
-bvycqrmqlqvp.com
 bvyhpxikzylmn.space
 bvz5.destinia.com.tr
 bw-trk.smadex.com
@@ -32813,16 +32813,9 @@ candyjelly.com
 candyoffers.com
 candywarehouse.evergage.com
 cane.intel.cn
-cane.intel.co.jp
-cane.intel.co.kr
-cane.intel.co.uk
 cane.intel.com
-cane.intel.com.au
 cane.intel.com.br
-cane.intel.com.tr
-cane.intel.com.tw
 cane.intel.de
-cane.intel.es
 cane.intel.fr
 cane.intel.in
 cane.intel.it
@@ -39216,7 +39209,6 @@ collationuppermodel.com
 collbd.com
 collect-ap2.attraqt.io
 collect-eu.attraqt.io
-collect-metrics.aquro.com
 collect-us.app-us1.com
 collect-us.hik-partner.com
 collect-v6.51.la
@@ -39736,7 +39728,6 @@ collector.scopely.io
 collector.secretescapes.com
 collector.shorte.st
 collector.spankbang.party
-collector.sphgfgx.com
 collector.sspinc.io
 collector.subito.it
 collector.superwall.me
@@ -55293,6 +55284,7 @@ dnset.com
 dnsscan.shadowserver.org
 dnt-userreport.com
 dntcxzpwzgdds.space
+dntds.shop
 dnuhjo.proworldinc.com
 dnuit.makefoodsimplebook.com
 dnus40re.xyz
@@ -55401,19 +55393,12 @@ doglobal.net
 dognet.sk
 dogo.intel.cn
 dogo.intel.co.jp
-dogo.intel.co.kr
-dogo.intel.co.uk
-dogo.intel.com.au
 dogo.intel.com.br
 dogo.intel.com.tr
 dogo.intel.com.tw
 dogo.intel.de
-dogo.intel.es
-dogo.intel.fr
 dogo.intel.in
-dogo.intel.it
 dogo.intel.la
-dogo.intel.pl
 dogt.xyz
 dogtreats.muttyprints.com
 dogus-ads-cdn.dygdigital.com
@@ -61561,6 +61546,7 @@ ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep2x3kiawg-sdk.rum.aliyuncs.com
 ep3.adtrafficquality.google
+epaaab.com
 epac.to
 epacash.com
 epaej.cortazu.com
@@ -73055,7 +73041,6 @@ gojbxm.normal-life.kr
 gojjutccrvayv.store
 gojsmanager.com
 golam.mawlashop.com
-gold-mir.com
 gold.promovibesoficial.com
 gold.roblox.com
 gold.szonline.net
@@ -76155,6 +76140,7 @@ gtm.flysas.com
 gtm.fnat.com.br
 gtm.fococlinico.com
 gtm.fohaloud.com
+gtm.follow.osubido.com.br
 gtm.fonserviceconsultoria.com.br
 gtm.fontedeprecos.com.br
 gtm.foodexcart.com
@@ -92362,6 +92348,7 @@ js.wpnsrv.com
 js.xemkqxs.com
 js.xuexila.com
 js.xz6d.com
+js.yalongrope.cn
 js.yjbys.com
 js.yoyi.tv
 js.zol.com.cn
@@ -130617,6 +130604,7 @@ parasiteoutdoorsmix.com
 parasolco.pxf.io
 parasolcrimefactory.com
 parazoabeirut.cyou
+parblemophaort.com
 parcelconsists.com
 parchedplay.com
 parchedsofa.com
@@ -132612,6 +132600,7 @@ pharm-24.com
 pharm-axis.com
 pharmacycoercive.com
 pharmacymarketonline.com
+pharmacyrx1.com
 pharmcash.com
 phasesassyth.cyou
 phaseshift.almagrow.com
@@ -134555,6 +134544,7 @@ pocustrack.com
 poczta.optad360.com
 pod.xpress.com
 pod.xxxconnect.com
+pod02.imailzone.com
 podatki.avtosi.si
 podawacz.cmcmedia.pl
 podbex.com
@@ -140328,7 +140318,6 @@ r1---sn-4g5ednkl.c.2mdn.net
 r1---sn-4g5ednsr.c.2mdn.net
 r1---sn-4g5lznls.c.2mdn.net
 r1---sn-4wg7lne6.c.2mdn.net
-r1---sn-5goeenez.c.2mdn.net
 r1---sn-5uaezn67.c.2mdn.net
 r1---sn-5uaezn6l.c.2mdn.net
 r1---sn-5uaezn6s.c.2mdn.net
@@ -142148,7 +142137,6 @@ r5---sn-p5qlsn6z.c.2mdn.net
 r5---sn-p5qlsn76.c.2mdn.net
 r5---sn-p5qlsn7d.c.2mdn.net
 r5---sn-p5qlsn7l.c.2mdn.net
-r5---sn-p5qlsn7s.c.2mdn.net
 r5---sn-p5qlsnd6.c.2mdn.net
 r5---sn-p5qlsndk.c.2mdn.net
 r5---sn-p5qlsndz.c.2mdn.net
@@ -148398,7 +148386,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpmsrv.com
 s.draqarys.com
 s.dreamland-plc.com
@@ -149026,7 +149013,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -162279,6 +162265,7 @@ skadnetwork.singular.net
 skadnetworks.fyber.com
 skadsdk.appsflyer.com
 skadsdk.appsflyersdk.com
+skadsdk.appsflyersdk.com-metrics.aquro.com
 skaldsgils.com
 skanceharshly.com
 skaqaz.witt-weiden.ch
@@ -174785,6 +174772,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -180187,6 +180175,7 @@ ssvtez.thelovery.co
 ssw.live.com
 sswmetrics.aerolineas.com.ar
 sswmetrics.airmalta.com
+sswmetrics.airniugini.com.pg
 sswmetrics.airseychelles.com
 sswmetrics.bahamasair.com
 sswmetrics.bearskinairlines.com
@@ -183026,6 +183015,7 @@ stape.rethoric.ai
 stape.revendamais.online
 stape.revidex.com.br
 stape.revisaodevida2026.com.br
+stape.revistacatolicismo.com.br
 stape.revistafinanciera.cl
 stape.revolthealthcare.com
 stape.revolthealthnetwork.com
@@ -192347,9 +192337,11 @@ tdslinetraffic.com
 tdsrilqk.dublin-chiropractic.com
 tdsrmbl.net
 tdstats.com
+tdsworkout.com
 tdt.dansktandforsikring.dk
 tdtc.shop
 tdtfga.healingpinesrecovery.com
+tdum.alibaba.com
 tdusj.sportsetrvc.com
 tduzo.novalights.com.au
 tdwxnm.watch
@@ -193054,7 +193046,6 @@ tenik5kot.com
 tenilstats.turner.com
 tenis.antolie.com.br
 tenlets.com
-tenmax-static.cacafly.net
 tenmax.io
 tenmaximg.cacafly.net
 tenmaxsgads.blob.core.windows.net
@@ -194131,7 +194122,6 @@ tiktok-ads.hara.vn
 tiktok-fly.com
 tiktok-user-events.boloforms.com
 tiktok.tray.com.br
-tiktokb2bmall.xyz
 tiktokmod.pro
 tiktokpangle-b.us
 tiktokpangle-cdn-us.com
@@ -205958,7 +205948,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -207703,7 +207692,6 @@ vcjakapovikso.site
 vcjsm.bluefalcongolf.com
 vckav.merakimedicinal.com
 vckgixqqnyosr.website
-vckixvxvnsubnx.com
 vclgnfyiermel.online
 vclsyumjrbiel.online
 vclunl.icu
@@ -212858,6 +212846,8 @@ whitelabel-https01.vs3.com
 whitelabel.media.net
 whiteline.mail.ru
 whitelist.eu
+whitellllshop.icu
+whitelllshop.icu
 whitening76.top
 whitenoisenews.com
 whitepapers.rockwellautomation.com
@@ -214857,6 +214847,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -217106,6 +217097,7 @@ x.crazyporn.xxx
 x.creedimages.cfd
 x.ctrltech.ai
 x.da.hunantv.com
+x.da.mgtv.com
 x.designboom.com
 x.disq.us
 x.eureka.net.home24.de
