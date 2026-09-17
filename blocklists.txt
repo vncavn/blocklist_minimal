@@ -7282,6 +7282,7 @@ ad.adition.com
 ad.adjw.co.kr
 ad.adkova.com
 ad.admine.co.kr
+ad.adnow.com
 ad.adpon-affi.net
 ad.adpon.jp
 ad.adriver.ru
@@ -10838,7 +10839,6 @@ ads.somlivre.com.br
 ads.sondakika.com
 ads.songmoi.vn
 ads.sonobi.com
-ads.soweb.gr
 ads.sparkflow.net
 ads.specificmedia.com
 ads.speedwaymotorsports.com
@@ -15204,8 +15204,8 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -20427,7 +20427,6 @@ api.istonaoefilosofia.com.br
 api.itaoxiaoshuo.com
 api.iterable.com
 api.itpub.cloud
-api.ivymobile.com
 api.janainalaurentino.com
 api.jcaacademy.com.br
 api.jennahorganics.com
@@ -35274,6 +35273,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -43025,7 +43025,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -59840,6 +59839,7 @@ eldj-defender.pro
 eldoradottfha.dataplane.rudderstack.com
 eldos.xyz
 ele26126.jscrambler.com
+elearningmine.com
 eleavers.com
 elecltrum.org
 electclasses.com
@@ -120043,7 +120043,6 @@ nbkpigxextkjn.website
 nbkxkthwjeefb.site
 nblhx.tartecosmetics.com
 nbmhu.sattache.com
-nbmnzrannrp.com
 nbmramf.de
 nbmzifqviafbn.site
 nboclympics.com
@@ -134522,7 +134521,6 @@ pocustrack.com
 poczta.optad360.com
 pod.xpress.com
 pod.xxxconnect.com
-pod02.imailzone.com
 podatki.avtosi.si
 podawacz.cmcmedia.pl
 podbex.com
@@ -140443,7 +140441,6 @@ r1---sn-gpv7ynes.c.2mdn.net
 r1---sn-h5576nsk.c.2mdn.net
 r1---sn-h5q7dns7.c.2mdn.net
 r1---sn-hoa7rn76.c.2mdn.net
-r1---sn-hp57kndk.c.2mdn.net
 r1---sn-hp57kndr.c.2mdn.net
 r1---sn-hp57knkl.c.2mdn.net
 r1---sn-hp57knks.c.2mdn.net
@@ -140474,7 +140471,6 @@ r1---sn-ntqe6n7k.c.2mdn.net
 r1---sn-ntqe6n7r.c.2mdn.net
 r1---sn-ntqe6nee.c.2mdn.net
 r1---sn-ntqe6nez.c.2mdn.net
-r1---sn-nv47ln6e.c.2mdn.net
 r1---sn-nv47znel.c.2mdn.net
 r1---sn-nx57ynsk.c.2mdn.net
 r1---sn-nx57ynsr.c.2mdn.net
@@ -140838,7 +140834,6 @@ r2---sn-gpv7ynes.c.2mdn.net
 r2---sn-h5q7dns7.c.2mdn.net
 r2---sn-h5q7knez.c.2mdn.net
 r2---sn-hp57kn6y.c.2mdn.net
-r2---sn-hp57kndk.c.2mdn.net
 r2---sn-hp57kndr.c.2mdn.net
 r2---sn-hp57kndy.c.2mdn.net
 r2---sn-hp57knkl.c.2mdn.net
@@ -141256,7 +141251,6 @@ r3---sn-gpv7ynel.c.2mdn.net
 r3---sn-h5q7dns7.c.2mdn.net
 r3---sn-hoa7rn76.c.2mdn.net
 r3---sn-hp57kn6y.c.2mdn.net
-r3---sn-hp57kndk.c.2mdn.net
 r3---sn-hp57kndr.c.2mdn.net
 r3---sn-hp57kndy.c.2mdn.net
 r3---sn-hp57knkl.c.2mdn.net
@@ -141662,7 +141656,6 @@ r4---sn-gpv7ynes.c.2mdn.net
 r4---sn-h5q7dns7.c.2mdn.net
 r4---sn-h5q7knes.c.2mdn.net
 r4---sn-hp57kn6y.c.2mdn.net
-r4---sn-hp57kndk.c.2mdn.net
 r4---sn-hp57kndr.c.2mdn.net
 r4---sn-hp57knk7.c.2mdn.net
 r4---sn-hp57knkl.c.2mdn.net
@@ -141697,7 +141690,6 @@ r4---sn-ntqe6n7k.c.2mdn.net
 r4---sn-ntqe6nee.c.2mdn.net
 r4---sn-ntqe6nes.c.2mdn.net
 r4---sn-ntqe6nez.c.2mdn.net
-r4---sn-nv47ln6e.c.2mdn.net
 r4---sn-nv47lns6.c.2mdn.net
 r4---sn-nv47lns7.c.2mdn.net
 r4---sn-nv47lnsk.c.2mdn.net
@@ -142062,7 +142054,6 @@ r5---sn-h5q7knez.c.2mdn.net
 r5---sn-h5qzen76.c.2mdn.net
 r5---sn-hoa7rn76.c.2mdn.net
 r5---sn-hp57kn6y.c.2mdn.net
-r5---sn-hp57kndk.c.2mdn.net
 r5---sn-hp57kndr.c.2mdn.net
 r5---sn-hp57knkl.c.2mdn.net
 r5---sn-hp57yn7y.c.2mdn.net
@@ -149000,6 +148991,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -150841,6 +150833,7 @@ sbdtds.com
 sbeacon.sina.com.cn
 sbeqti.koaj.co
 sber.cod63.com
+sber.sell2dealer.com
 sbermarketing.ru
 sbfalhfrcwptz.site
 sbfsdvc.com
@@ -162784,6 +162777,7 @@ smac-ssp.com
 smacfxrtfwqgdi.com
 smackedtapnet.com
 smacksfulgent.cyou
+smaclick.com
 smad.ms.zhangyue.net
 smade.otisopse.com
 smade.quellilainitaly.com
@@ -167800,7 +167794,6 @@ sn-f5f7lnl7.c.2mdn.net
 sn-f5fz7n7s.c.2mdn.net
 sn-gpv7ynee.c.2mdn.net
 sn-hp57kn6y.c.2mdn.net
-sn-hp57kndk.c.2mdn.net
 sn-hp57kndr.c.2mdn.net
 sn-hp57kndy.c.2mdn.net
 sn-hp57knk7.c.2mdn.net
@@ -174763,7 +174756,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
@@ -192336,6 +192328,7 @@ tdsworkout.com
 tdt.dansktandforsikring.dk
 tdtc.shop
 tdtfga.healingpinesrecovery.com
+tdum.alibaba.com
 tdusj.sportsetrvc.com
 tduzo.novalights.com.au
 tdwxnm.watch
@@ -201046,6 +201039,7 @@ trends.mobile.sina.cn
 trends.newsmaxwidget.com
 trends.privacywall.org
 trends.revcontent.com
+trendsbongo.com
 trendypersons.com
 trenrasius.com
 trentalburrito.com
@@ -203040,7 +203034,6 @@ twinabonnementoutburst.com
 twincdn.com
 twinelandlord.com
 twinepaliliafils.cfd
-twinfill.com
 twinkle-fun.net
 twinklealec.com
 twinkledysenterysupporter.com
@@ -205947,6 +205940,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -223698,7 +223692,6 @@ zzdvsgnxamcmq.website
 zzfikyawmqtmw.website
 zzfmo.getyourwaggleon.com
 zzfsli.tom-tailor.ru
-zzfxfz.com
 zzghp.velotricbike.com
 zzhengre.com
 zzhizbzowrzlvy.com
