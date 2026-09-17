@@ -4006,6 +4006,7 @@ a1.api.bbc.com
 a1.arabsex1.com
 a1.awin1.com
 a1.bajiu.cn
+a1.bestopview.com
 a1.bookapka.com
 a1.booksamillion.com
 a1.borgentech.com
@@ -7284,7 +7285,6 @@ ad.adition.com
 ad.adjw.co.kr
 ad.adkova.com
 ad.admine.co.kr
-ad.adnow.com
 ad.adpon-affi.net
 ad.adpon.jp
 ad.adriver.ru
@@ -10165,7 +10165,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15207,6 +15206,8 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -22109,7 +22110,6 @@ app.sfajacks.com
 app.sgizmo.com
 app.shopimind.com
 app.siemensplmevents.com
-app.simpleswap.financial
 app.simpli.fi
 app.siusalukis.com
 app.sjsuspartans.com
@@ -22218,6 +22218,7 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -37701,7 +37702,6 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -57873,6 +57873,7 @@ e.servicemarket.com
 e.sexbule.xxx
 e.slickdealscdn.com
 e.so.com
+e.szqifu.com
 e.tapdb.ap-sg.tapapis.com
 e.tapdb.net
 e.tf.360.cn
@@ -59357,7 +59358,6 @@ effectivedisplaycontent.com
 effectivedisplayformat.com
 effectivedisplayformats.com
 effectivegatecpm.com
-effectivegatetocontent.com
 effectivemeasure.com
 effectivemeasure.net
 effectiveperformanceformat.com
@@ -69046,7 +69046,6 @@ fxb.mybluehost.me
 fxbojoywozehj.website
 fxchltvb.usframefactory.com
 fxdepo.com
-fxdphfxmrz.com
 fxewupiyppjkg.website
 fxfezg.bodylab24.de
 fxfomm.tegeldepot.nl
@@ -102864,7 +102863,6 @@ load.sst.planinternational.nl
 load.sst.polonious-systems.com
 load.sst.poolfence.com
 load.sst.pot-verhuizingen.nl
-load.sst.powerimport.nl
 load.sst.pranarestaurant.co.uk
 load.sst.pre-prod.nl.toolstation.dev
 load.sst.pressienails.com
@@ -106804,6 +106802,7 @@ m.sobiquge.com
 m.sst.mardigrascasinowv.com
 m.swatchesacademy.com
 m.symad.cn
+m.szqifu.com
 m.tansuotv.com
 m.teamsugar.com
 m.techpump.com
@@ -109903,6 +109902,7 @@ mavenanalytics.io
 mavericks.marketo.com
 maverik.com
 mavisesdogskin.qpon
+mavor.top
 mavq.net
 mavrtracktor.com
 mawar500.net
@@ -117250,6 +117250,7 @@ monetizer.co
 monetizer.guru
 monetizer101.com
 monetizze.com.br
+money-ai.io
 money-express.me
 money-finance.net
 money.clarkmortgage.co.uk
@@ -120878,6 +120879,7 @@ news-sirivo.cc
 news-sports-events.apple.com
 news-tui.com
 news-xjixere.cc
+news-xofapi.com
 news-xpunobu.cc
 news-xrofobi.com
 news-xvuwabi.live
@@ -130616,6 +130618,7 @@ parasiteoutdoorsmix.com
 parasolco.pxf.io
 parasolcrimefactory.com
 parazoabeirut.cyou
+parblemophaort.com
 parcelconsists.com
 parchedplay.com
 parchedsofa.com
@@ -149028,6 +149031,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -174795,6 +174799,7 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -174932,7 +174937,6 @@ ssr.isuonidelledolomiti.it
 ssr.joghstore.com
 ssr.mobilelline.com
 ssr.msd1983.com
-ssr.nabrasalawd.com
 ssr.nordichair.com
 ssr.prsso.com
 ssr.rashof.com
@@ -194282,6 +194286,7 @@ tip-ads.de
 tipburnhot.shop
 tipcompoundextreme.com
 tipeaivers.qpon
+tipgoof.live
 tipmenplaits.cyou
 tippcom01.tipp24.com
 tips.shouji.sogou.com
@@ -197597,6 +197602,7 @@ track.dalenetwork.com
 track.daly2024.com
 track.dariuslukas.com
 track.datacenterworld.com
+track.ddmanager.ru
 track.dealextremist.com
 track.debbicarberry.com.au
 track.debenhams.ie
@@ -212808,7 +212814,6 @@ whglicfodltns.space
 whh.mybluehost.me
 whheyu.saraya.com
 whichartist.com
-whichdespite.com
 whicheverspeaklights.com
 whichfreely.com
 whichmeu.com
@@ -215748,7 +215753,6 @@ www.jisucn.com
 www.jiubuhua.com
 www.jizzads.com
 www.jjbenefitsguide.com
-www.joinfx.net
 www.jokeroo.com
 www.joyourself.com
 www.jpush.cn
@@ -220642,6 +220646,7 @@ ykiyhzbgnqkys.online
 ykjwx.silhouetteparis.com
 ykksslnwspjqt.online
 ykktwv.titivate.jp
+yklgge.oc.hu
 ykmsxu.vitalabo.ch
 yknbqe.marinobus.it
 yknhfifccqozk.space
@@ -221742,7 +221747,6 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
-z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
@@ -223283,7 +223287,6 @@ zs.voyage-prive.com
 zs1.cnzz.com
 zs10.cnzz.com
 zs11.cnzz.com
-zs12.cnzz.com
 zs13.cnzz.com
 zs14.cnzz.com
 zs15.cnzz.com
