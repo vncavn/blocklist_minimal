@@ -7289,7 +7289,6 @@ ad.adition.com
 ad.adjw.co.kr
 ad.adkova.com
 ad.admine.co.kr
-ad.adnow.com
 ad.adpon-affi.net
 ad.adpon.jp
 ad.adriver.ru
@@ -7720,6 +7719,7 @@ ad.site-landing.com
 ad.sitelement.sk
 ad.skylinewebcams.com
 ad.smaad.jp
+ad.smaclick.com
 ad.smartclip.net
 ad.smartinmedia.co.kr
 ad.snappea.com
@@ -7781,6 +7781,7 @@ ad.uwm.edu
 ad.v6.kuaishou.cn
 ad.vacanceo.com
 ad.val.jp
+ad.velomania.ru
 ad.vera.bet.br
 ad.verda2.akadns.net
 ad.video-mech.ru
@@ -10103,7 +10104,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -15211,7 +15211,6 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
@@ -23133,7 +23132,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -31572,7 +31570,6 @@ bvupjqkxxrgqr.space
 bvvgl.thepaystubs.com
 bvwsvjhpbmzvj.space
 bvxvwb.miniwebshop.hu
-bvycqrmqlqvp.com
 bvyhpxikzylmn.space
 bvz5.destinia.com.tr
 bw-trk.smadex.com
@@ -38465,6 +38462,7 @@ clurdfsagmfjh.space
 cluster.awmdelivery.com
 cluster.criare.realizaambientes.com.br
 cluster.gralhaimoveis.com.br
+cluster.imoveiscitalli.com.br
 cluster.xhspot.com
 clustercolocate.com
 clusterdaint.shop
@@ -71877,6 +71875,7 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -109949,6 +109948,7 @@ maximryder.cyou
 maximumdecimus.clicknplay.to
 maximus.demdex.net
 maxincome.org
+maxinterio.com
 maxisurf.net
 maxkill.upinmax.com
 maxonclick.com
@@ -134552,7 +134552,6 @@ pocustrack.com
 poczta.optad360.com
 pod.xpress.com
 pod.xxxconnect.com
-pod02.imailzone.com
 podatki.avtosi.si
 podawacz.cmcmedia.pl
 podbex.com
@@ -135077,7 +135076,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -152220,6 +152218,7 @@ secure.reaktion.se
 secure.realwomenofphiladelphia.ca
 secure.redirectportal.com
 secure.securitetotale.fr
+secure.sharethis.com
 secure.sigmaaldrich.com
 secure.smart-enterprise-52.com
 secure.smartenterprisewisdom.com
@@ -178580,6 +178579,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -183339,6 +183339,7 @@ stape.thiagowestmann.com.br
 stape.thisissocialclub.com
 stape.thomascito.com.br
 stape.thomasfenceco.com
+stape.thomasjorgensen.com.br
 stape.thormontagen.de
 stape.tiadoinglesacademy.com.br
 stape.tiagomecabo.com.br
@@ -187842,6 +187843,8 @@ support.tbllprem.com
 support.tenten.vn
 support.tib.eu
 support0.bigo.sg
+support2.flex.com
+support3.flex.com
 supportacs24.com
 supportedbailednotions.com
 supporters.redbankgreen.com
@@ -204561,6 +204564,7 @@ umuraaajkrkxl.space
 umvhu.mycalmi.com
 umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
+umwiba.com
 umwuxk.hotel.cz
 umwzmbhdifptd.online
 umxwew.hellobello.com
@@ -208874,6 +208878,7 @@ viralcharpitosmolar.qpon
 viralesstrette.cyou
 viralfoodie.net
 viralize.com
+viralltopics.com
 viralmails.de
 viralmediatech.com
 viralnewsbd.xyz
@@ -214842,6 +214847,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -219905,6 +219911,7 @@ yaho.com
 yahoo-match.dotomi.com
 yahoo.adclixx.net
 yahoo.bannertrack.net
+yahoo.com
 yahoo.media.net
 yahoo1.beareyes.com.cn
 yahoolock.com
@@ -223690,7 +223697,6 @@ zzdvsgnxamcmq.website
 zzfikyawmqtmw.website
 zzfmo.getyourwaggleon.com
 zzfsli.tom-tailor.ru
-zzfxfz.com
 zzghp.velotricbike.com
 zzhengre.com
 zzhizbzowrzlvy.com
