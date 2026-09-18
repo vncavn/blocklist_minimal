@@ -10107,7 +10107,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -10173,7 +10172,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -14066,7 +14064,6 @@ agrariancapable.com
 agrariansabletogether.com
 agrariastalerreeds.cyou
 agrbyslxnivin.website
-agreatamericanprintshop.com
 agreeable-key.pro
 agreeablearch.com
 agreeablebeggarlyvarieties.com
@@ -15218,7 +15215,8 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -19987,6 +19985,7 @@ api.car2b.com.br
 api.carbanna.com.br
 api.cardinot.com.br
 api.cardosoadvocacia.com.br
+api.cardosomorais.com.br
 api.carlaandrea.com.br
 api.carolinamueller.com.br
 api.carolmariath.com.br
@@ -22080,7 +22079,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -27019,7 +27017,6 @@ beacon.etfflows.com
 beacon.examiner.com
 beacon.file.force.com
 beacon.flexera-prod.aws.metafb.cloud
-beacon.flow.io
 beacon.fusioncdn.com
 beacon.fusioncdn.com.wcdnga.com
 beacon.fut.gg
@@ -34699,6 +34696,7 @@ cdn.d2-apps.net
 cdn.datateam.co.uk
 cdn.datawrkz.com
 cdn.dawplm.com
+cdn.ddmanager.ru
 cdn.debugbear.com
 cdn.deepintent.com
 cdn.defractal.com
@@ -38483,6 +38481,7 @@ clurdfsagmfjh.space
 cluster.awmdelivery.com
 cluster.criare.realizaambientes.com.br
 cluster.gralhaimoveis.com.br
+cluster.imoveiscitalli.com.br
 cluster.xhspot.com
 clustercolocate.com
 clusterdaint.shop
@@ -51097,6 +51096,7 @@ data.qurlad.my
 data.r.pl
 data.rackservidor.pt
 data.racq.dev.cjmadobe.com
+data.radiolac.ch
 data.rahu.test.ajo.adobe.com
 data.randyfox.com.au
 data.rarebiblio.com
@@ -58546,7 +58546,6 @@ eaze.pxf.io
 eazqiicorbzpm.site
 eazyleads.com
 eb.alcmpn.com
-eb.com
 eb.essenzshop.at
 eb.estoresbaratos.com
 eb.prout.be
@@ -61254,6 +61253,7 @@ engine.goodreader.com
 engine.groweo.com
 engine.instaheadshots.com
 engine.letsstat.nl
+engine.lvehaisen.com
 engine.nectarads.com
 engine.partylemons.com
 engine.pgmediaserve.com
@@ -65640,7 +65640,6 @@ fgjsfrafgkibz.site
 fgjzs.giftsforyounow.com
 fgkwup.peterhahn.fr
 fglee.com
-fgllllfedeltb.website
 fglrgt.ruggable.com
 fgmaal.u-canshop.jp
 fgmbp.txfowlers.com
@@ -66743,6 +66742,7 @@ flagr.silpo.ua
 flags.es
 flagstonefoundingmonotype.com
 flahjmplwrzgc.space
+flairads.com
 flairadscpc.com
 flairadscpc.xml-eu.ak-is2.net
 flakyfeast.com
@@ -67137,7 +67137,6 @@ flytechb.com
 flytedesk.com
 flywayshackees.qpon
 flyye.cn
-flzkgieecosgn.com
 flznib.weblio.jp
 flzrsrikaaymy.online
 fm-analytics-api.pocketfm.com
@@ -69270,6 +69269,7 @@ g.baidu.com
 g.bbe-insider.com
 g.beesbuzz.biz
 g.bing.com
+g.bitauto.com
 g.blissdiamond.com
 g.bottleplus.com
 g.btc-echo.de
@@ -75492,7 +75492,6 @@ gtm.cpenneagram.com
 gtm.cpenneagram.com.br
 gtm.cpsconsulting.it
 gtm.craftando.com.br
-gtm.craftsohor.com
 gtm.crbncncpt.com
 gtm.creaartesano.online
 gtm.crearconarte.com.br
@@ -76596,6 +76595,7 @@ gtm.hotcadeals.ca
 gtm.hoteisuirapuru.com.br
 gtm.hotelcasa.nl
 gtm.hotellafenice.com
+gtm.hotelrefugiodamontanha.com.br
 gtm.househunters.com.pt
 gtm.houseofher.com
 gtm.houseofom.com
@@ -79885,7 +79885,6 @@ gts.thatsagrowth.com
 gtsmobi.com
 gtstone.ca
 gttbtg.tattoo
-gtthvpzlnmueh.store
 gtuetxpyzuaeg.website
 gtuxvjpwgyzob.online
 gtv-pub.com
@@ -90423,7 +90422,6 @@ izd.mybluehost.me
 izdonegkaboga.website
 izea.com
 izearanks.com
-izechqbrmajqr.online
 izeeto.com
 izegag.shop24direct.de
 izfmabddupcbd.space
@@ -95049,7 +95047,6 @@ kremz.ru
 krevn0cq4.com
 kreyfdv.nordicoil.se
 krfaihltnqyrr.website
-krfqlrxvmoyrj.online
 krfxvi.iconbydesign.com.au
 krg4f5bo.xyz
 krhi1dc7m.com
@@ -95229,7 +95226,6 @@ ktpzzvnffdttj.site
 ktracker.kumparan.com
 ktrcoublzmdhh.space
 ktrejeujbewdo.site
-ktrgtteucxzzu.website
 ktrjrp.trendhim.co.nz
 kts.vasstycom.com
 kts.visitstats.com
@@ -97323,7 +97319,6 @@ lhxqfxhqwoiiq.site
 lhxsrndtegeuo.online
 lhyioq.domodesign.kr
 lhyykevpkiqhyp3n7zc.cfd
-lhzntghorkktf.website
 lhzulh.tribeamrapali.com
 lhzxdptexntmf.space
 li-apps.com
@@ -113730,6 +113725,7 @@ metrics.orlandofuntickets.com
 metrics.ormis.elmec.com
 metrics.orvis.com
 metrics.oshkosh.com
+metrics.ostseeresort-damp.de
 metrics.ovid.com
 metrics.ovs.it
 metrics.ovsfashion.com
@@ -129152,7 +129148,6 @@ ottl7-l2.pandora.xiaomi.com
 otto-images.developershed.com
 ottud.mariemur.com
 ottzquufeqnef.com
-otunmakpjbtga.website
 oturvy.sanitairwinkel.nl
 otuumq.manyavar.com
 otvojqdrozce.com
@@ -130225,6 +130220,7 @@ page.irco.com
 page.nationalrestaurantshow.com
 page.northstateconsultingllc.com
 page.oceaninsight.com
+page.parreiraimoveis.com.br
 page.taashir.shop
 page.terguspharma.com
 page.thalesgroup.com
@@ -135155,6 +135151,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -138863,7 +138860,6 @@ qfcxpa.dreamcloudsleep.com
 qfdilgjxpdevp.online
 qfdtnsipgniun.space
 qfdzba.sport-schuster.de
-qfgzjprfvrabq.site
 qfhvdwqycveuf.site
 qfhzki.com
 qfiiabgqceggh.site
@@ -148474,6 +148470,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpmsrv.com
 s.draqarys.com
 s.dreamland-plc.com
@@ -149101,7 +149098,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -159997,7 +159993,6 @@ sgtm.piuchepuoi.it
 sgtm.placierenergie.fr
 sgtm.plantekoeb.dk
 sgtm.platinumpeptides.com
-sgtm.pleasureandpassion.co.uk
 sgtm.plovakplus.rs
 sgtm.pmi.org
 sgtm.pmpwithray.com
@@ -171885,7 +171880,6 @@ ss.discoworld.no
 ss.disruption.school
 ss.distefano3dprint.com
 ss.distilllaserclinic.com
-ss.disumtec.com
 ss.dklparty.nl
 ss.dmtrade.pl
 ss.dnarica.com.br
@@ -181149,6 +181143,7 @@ stape.bwacontactcenter.com.br
 stape.byebyefraldinha.com.br
 stape.byvc.com.br
 stape.ca
+stape.cacseguranca.com.br
 stape.cacttus.com.br
 stape.cactusgaming.net
 stape.cadastrocasafolha.folha.com.br
@@ -182806,6 +182801,7 @@ stape.paarel.com
 stape.pacific.edu
 stape.pacifiq.pt
 stape.pacotedeplanilhas.com
+stape.padilharibeiro.eng.br
 stape.padrechrystian.com.br
 stape.padrelucasfolego.com.br
 stape.page.nailmasters.academy
@@ -192432,6 +192428,7 @@ tdsworkout.com
 tdt.dansktandforsikring.dk
 tdtc.shop
 tdtfga.healingpinesrecovery.com
+tdum.alibaba.com
 tdusj.sportsetrvc.com
 tduzo.novalights.com.au
 tdwxnm.watch
@@ -219178,7 +219175,6 @@ xoiuprsewuyst.site
 xoj.mybluehost.me
 xokxqfxasjuaw.space
 xolebe.footway.se
-xolfzsxmgswqt.site
 xoliter.com
 xolltgznjuwxi.space
 xome.evergage.com
@@ -221403,6 +221399,7 @@ yummypornos.com
 yumuhw.cotepro.fr
 yumvcqphmxpoh.site
 yun-hl.3g.qq.com
+yun.lvehaisen.com
 yun.tuia.cn
 yun.tuisnake.com
 yunalwv.biz
@@ -221699,7 +221696,6 @@ yzazgq.buffalo.de
 yzccdzhpooakp.store
 yzcfva.healthyplanetcanada.com
 yzcpqa.gumtree.com
-yzdkhftbkynua.site
 yzdljh.clarins.ca
 yzdltz.pricerunner.dk
 yzembrsiij.cfd
