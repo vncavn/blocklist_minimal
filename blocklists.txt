@@ -7727,6 +7727,7 @@ ad.site-landing.com
 ad.sitelement.sk
 ad.skylinewebcams.com
 ad.smaad.jp
+ad.smaclick.com
 ad.smartclip.net
 ad.smartinmedia.co.kr
 ad.snappea.com
@@ -10111,6 +10112,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -15222,6 +15224,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -16232,7 +16235,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-dataplane.invideo.io
@@ -32841,21 +32843,13 @@ candyjelly.com
 candyoffers.com
 candywarehouse.evergage.com
 cane.intel.cn
-cane.intel.co.jp
-cane.intel.co.kr
 cane.intel.co.uk
 cane.intel.com
-cane.intel.com.au
-cane.intel.com.br
 cane.intel.com.tr
 cane.intel.com.tw
-cane.intel.de
-cane.intel.es
-cane.intel.fr
 cane.intel.in
 cane.intel.it
 cane.intel.la
-cane.intel.pl
 canekilttantrum.com
 canellecrazy.com
 canem-auris.com
@@ -33464,7 +33458,6 @@ caplights.com
 capliman.com
 caplvexdhgvbz.website
 capndr.com
-caposmilk.live
 cappiecess.cyou
 capping.lemonde.fr
 capping.sirius.press
@@ -35324,7 +35317,6 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -37750,6 +37742,7 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -55434,17 +55427,11 @@ doglobal.net
 dognet.sk
 dogo.intel.cn
 dogo.intel.co.jp
-dogo.intel.co.kr
 dogo.intel.co.uk
-dogo.intel.com.au
-dogo.intel.com.br
 dogo.intel.com.tr
 dogo.intel.com.tw
-dogo.intel.de
 dogo.intel.es
 dogo.intel.fr
-dogo.intel.in
-dogo.intel.it
 dogo.intel.la
 dogo.intel.pl
 dogribkra.cyou
@@ -73788,6 +73775,7 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
+grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -115169,7 +115157,6 @@ militantwitnessfelon.com
 militarfagot.com
 milk.supertool.stunnermedia.com
 milk.yesky.com.cn
-milkaddhey.live
 milkly.ru
 milkway.lintlink.com
 milky-silver.pro
@@ -135567,7 +135554,6 @@ praystakeinstinct.com
 prbii.rugs-direct.com
 prbn.ru
 prbxckwtajncq.space
-prcappzone.intel.com
 prchecker.info
 prchnloyitvdf.website
 prcji.kennyflowers.com
@@ -140558,6 +140544,7 @@ r1---sn-hp57yn7y.c.2mdn.net
 r1---sn-hp57yne7.c.2mdn.net
 r1---sn-hp57ynee.c.2mdn.net
 r1---sn-hp57ynl6.c.2mdn.net
+r1---sn-hp57ynlr.c.2mdn.net
 r1---sn-hp57ynly.c.2mdn.net
 r1---sn-hp57yns6.c.2mdn.net
 r1---sn-hp57ynsd.c.2mdn.net
@@ -140868,11 +140855,13 @@ r2---sn-ab5sznly.c.2mdn.net
 r2---sn-ab5sznz6.c.2mdn.net
 r2---sn-ab5sznzr.c.2mdn.net
 r2---sn-ab5sznzy.c.2mdn.net
+r2---sn-aigl6n6s.c.2mdn.net
 r2---sn-aigl6ned.c.2mdn.net
 r2---sn-aigl6nl7.c.2mdn.net
 r2---sn-aigl6nz7.c.2mdn.net
 r2---sn-aigl6nze.c.2mdn.net
 r2---sn-aigl6nzl.c.2mdn.net
+r2---sn-aigl6nzr.c.2mdn.net
 r2---sn-aigzrn76.c.2mdn.net
 r2---sn-aigzrn7e.c.2mdn.net
 r2---sn-aigzrn7s.c.2mdn.net
@@ -140946,7 +140935,6 @@ r2---sn-hp57knks.c.2mdn.net
 r2---sn-hp57yn7y.c.2mdn.net
 r2---sn-hp57yne7.c.2mdn.net
 r2---sn-hp57ynee.c.2mdn.net
-r2---sn-hp57ynlr.c.2mdn.net
 r2---sn-hp57ynly.c.2mdn.net
 r2---sn-hp57yns6.c.2mdn.net
 r2---sn-hp57yns7.c.2mdn.net
@@ -140998,6 +140986,7 @@ r2---sn-p5qlsn6s.c.2mdn.net
 r2---sn-p5qlsn6z.c.2mdn.net
 r2---sn-p5qlsn76.c.2mdn.net
 r2---sn-p5qlsn7d.c.2mdn.net
+r2---sn-p5qlsn7l.c.2mdn.net
 r2---sn-p5qlsndk.c.2mdn.net
 r2---sn-p5qs7n6d.c.2mdn.net
 r2---sn-p5qs7n6y.c.2mdn.net
@@ -141063,7 +141052,6 @@ r2---sn-qja5mc-5h.c.2mdn.net
 r2---sn-qja5mc-5j.c.2mdn.net
 r2---sn-qjp5q5-55.c.2mdn.net
 r2---sn-qjp5q5-5q.c.2mdn.net
-r2---sn-qxo7rn7y.c.2mdn.net
 r2---sn-qxo7rne7.c.2mdn.net
 r2---sn-qxo7rnee.c.2mdn.net
 r2---sn-qxoedn7k.c.2mdn.net
@@ -141347,7 +141335,6 @@ r3---sn-f5f7kn7e.c.2mdn.net
 r3---sn-f5f7lnly.c.2mdn.net
 r3---sn-f5fz7n7s.c.2mdn.net
 r3---sn-gpv7kne7.c.2mdn.net
-r3---sn-gpv7knee.c.2mdn.net
 r3---sn-gpv7yn7l.c.2mdn.net
 r3---sn-gpv7yne6.c.2mdn.net
 r3---sn-gpv7ynee.c.2mdn.net
@@ -141370,6 +141357,7 @@ r3---sn-hp57yns7.c.2mdn.net
 r3---sn-hp57ynsd.c.2mdn.net
 r3---sn-hpa7kn76.c.2mdn.net
 r3---sn-hpa7kn7d.c.2mdn.net
+r3---sn-hpa7knld.c.2mdn.net
 r3---sn-hpa7zn66.c.2mdn.net
 r3---sn-hpa7zns6.c.2mdn.net
 r3---sn-hxa76n7s.c.2mdn.net
@@ -141487,7 +141475,6 @@ r3---sn-qja5mc-5h.c.2mdn.net
 r3---sn-qja5mc-5j.c.2mdn.net
 r3---sn-qjp5q5-55.c.2mdn.net
 r3---sn-qjp5q5-5q.c.2mdn.net
-r3---sn-qxo7rn7y.c.2mdn.net
 r3---sn-qxo7rne7.c.2mdn.net
 r3---sn-qxo7rnee.c.2mdn.net
 r3---sn-qxoednes.c.2mdn.net
@@ -141566,6 +141553,7 @@ r3---sn-woc7kned.c.2mdn.net
 r3---sn-woc7knek.c.2mdn.net
 r3---sn-x1x7dn7s.c.2mdn.net
 r3---sn-x1x7dned.c.2mdn.net
+r3---sn-x1x7dnek.c.2mdn.net
 r3---sn-x1xe7nes.c.2mdn.net
 r3---sn-x1xe7nez.c.2mdn.net
 r3.adwo.com
@@ -141886,6 +141874,7 @@ r4---sn-qja5mc-5h.c.2mdn.net
 r4---sn-qja5mc-5j.c.2mdn.net
 r4---sn-qjp5q5-55.c.2mdn.net
 r4---sn-qjp5q5-5q.c.2mdn.net
+r4---sn-qxo7rn7y.c.2mdn.net
 r4---sn-qxo7rne7.c.2mdn.net
 r4---sn-qxo7rnee.c.2mdn.net
 r4---sn-qxoedn7k.c.2mdn.net
@@ -142160,14 +142149,12 @@ r5---sn-hp57knkl.c.2mdn.net
 r5---sn-hp57yn7y.c.2mdn.net
 r5---sn-hp57yne7.c.2mdn.net
 r5---sn-hp57ynee.c.2mdn.net
-r5---sn-hp57ynlr.c.2mdn.net
 r5---sn-hp57ynly.c.2mdn.net
 r5---sn-hp57yns6.c.2mdn.net
 r5---sn-hp57yns7.c.2mdn.net
 r5---sn-hp57ynsd.c.2mdn.net
 r5---sn-hp57ynss.c.2mdn.net
 r5---sn-hpa7kn7d.c.2mdn.net
-r5---sn-hpa7knld.c.2mdn.net
 r5---sn-hpa7zn66.c.2mdn.net
 r5---sn-hpa7zns6.c.2mdn.net
 r5---sn-hpa7znsz.c.2mdn.net
@@ -142210,6 +142197,7 @@ r5---sn-p5qlsn6s.c.2mdn.net
 r5---sn-p5qlsn6z.c.2mdn.net
 r5---sn-p5qlsn76.c.2mdn.net
 r5---sn-p5qlsn7d.c.2mdn.net
+r5---sn-p5qlsn7l.c.2mdn.net
 r5---sn-p5qlsnd6.c.2mdn.net
 r5---sn-p5qlsndk.c.2mdn.net
 r5---sn-p5qlsndz.c.2mdn.net
@@ -142275,6 +142263,7 @@ r5---sn-qja5mc-5h.c.2mdn.net
 r5---sn-qja5mc-5j.c.2mdn.net
 r5---sn-qjp5q5-55.c.2mdn.net
 r5---sn-qjp5q5-5q.c.2mdn.net
+r5---sn-qxo7rn7y.c.2mdn.net
 r5---sn-qxo7rne7.c.2mdn.net
 r5---sn-qxo7rnee.c.2mdn.net
 r5---sn-qxoedn7k.c.2mdn.net
@@ -166379,6 +166368,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -167831,6 +167821,7 @@ sn-aigl6ner.c.2mdn.net
 sn-aigl6nz7.c.2mdn.net
 sn-aigl6nze.c.2mdn.net
 sn-aigl6nzl.c.2mdn.net
+sn-aigl6nzr.c.2mdn.net
 sn-aigzrn7d.c.2mdn.net
 sn-aigzrnse.c.2mdn.net
 sn-aigzrnss.c.2mdn.net
@@ -167897,6 +167888,7 @@ sn-hp57yns7.c.2mdn.net
 sn-hp57ynsd.c.2mdn.net
 sn-hp57ynss.c.2mdn.net
 sn-hpa7kn7d.c.2mdn.net
+sn-hpa7knld.c.2mdn.net
 sn-hpa7zn66.c.2mdn.net
 sn-hpa7zns6.c.2mdn.net
 sn-n4v7snee.c.2mdn.net
@@ -168011,7 +168003,6 @@ sn-qja5mc-5h.c.2mdn.net
 sn-qja5mc-5j.c.2mdn.net
 sn-qjp5q5-55.c.2mdn.net
 sn-qjp5q5-5q.c.2mdn.net
-sn-qxo7rn7y.c.2mdn.net
 sn-qxo7rne7.c.2mdn.net
 sn-qxo7rnee.c.2mdn.net
 sn-qxoedn7k.c.2mdn.net
@@ -174842,7 +174833,6 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -212711,7 +212701,6 @@ wga.vitalipartners.com
 wga.wemakeinsuranceez.com
 wgaesioplofoq.site
 wgapyh.run
-wgbdkphdnh.com
 wgchrrammzv.com
 wgcjpruezksws.online
 wgczby.foroffice.ru
