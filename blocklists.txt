@@ -7725,7 +7725,6 @@ ad.site-landing.com
 ad.sitelement.sk
 ad.skylinewebcams.com
 ad.smaad.jp
-ad.smaclick.com
 ad.smartclip.net
 ad.smartinmedia.co.kr
 ad.snappea.com
@@ -10176,6 +10175,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -14068,7 +14068,6 @@ agrariancapable.com
 agrariansabletogether.com
 agrariastalerreeds.cyou
 agrbyslxnivin.website
-agreatamericanprintshop.com
 agreeable-key.pro
 agreeablearch.com
 agreeablebeggarlyvarieties.com
@@ -15055,7 +15054,6 @@ alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com
 alexabyte.site
 alexametrics.com
-alexandra-daddario.com
 alexandria.marfeelcdn.com
 alexandria.warespace.com.au
 alexasdisbuds.shop
@@ -15220,6 +15218,7 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
@@ -16230,6 +16229,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-dataplane.invideo.io
@@ -22229,7 +22229,6 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -23068,7 +23067,6 @@ art2dec.co
 artamuspaterae.cfd
 artanlife.club
 artannagentlemen.com
-artb-adtelligent-com.geodns.me
 artbranch.net
 artcapturemumble.com
 artduomo.es
@@ -35183,6 +35181,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -39165,6 +39164,7 @@ coin-volcano.ru
 coin.historyhoard.com
 coinad.in
 coinad.media
+coinad.org
 coinads.online
 coinadster.com
 coinbank247.com
@@ -39847,7 +39847,6 @@ colossaltroubledknocked.com
 colossusssp.com
 colourfulplayerperspective.com
 colourmingle.com
-colsonslandscaping.com
 colterstrisect.com
 coltlimb.com
 columbiahealthcaredatabreach.e.epiqnotification.com
@@ -43082,6 +43081,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -71305,7 +71305,6 @@ ghabovethec.info
 ghabovethecityon.com
 ghaudhur.com
 ghawbdktdopmt.online
-ghb-adtelligent-com.geodns.me
 ghb.adtelligent.com
 ghb.console.adtarget.com.tr
 ghb.hb.selectmedia.asia
@@ -73794,6 +73793,7 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
+grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -75505,6 +75505,7 @@ gtm.cpenneagram.com
 gtm.cpenneagram.com.br
 gtm.cpsconsulting.it
 gtm.craftando.com.br
+gtm.craftsohor.com
 gtm.crbncncpt.com
 gtm.creaartesano.online
 gtm.crearconarte.com.br
@@ -92720,7 +92721,6 @@ jumpschmoos.cyou
 jumptap.com
 jumpylevel.com
 jumpyliterature.com
-jumszssy.com
 jumto.xyz
 jumvsaapqxaed.site
 jun01.oss-cn-beijing.aliyuncs.com
@@ -127874,7 +127874,6 @@ onetag.tws.toyota.jp
 onetarget.ru
 onethestruis.com
 onetouch4.com
-onetouch8.info
 onetrust.techservices.illinois.edu
 onetubes.top
 onety.pl
@@ -132644,7 +132643,6 @@ pgs.io
 pgs.mybluehost.me
 pgsgtm.djuronaset.com
 pgshkzyqxqjjb.online
-pgskxcpbgbf.com
 pgsmnaegntnkt.online
 pgsoloddwczpn.online
 pgssl.com
@@ -135169,6 +135167,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -155287,7 +155286,6 @@ server.gearfocus.com
 server.geeoo.com.bd
 server.gefinancas.com.br
 server.gelavending.com
-server.genesihub.com.br
 server.genesispharma.com.br
 server.gentlepark.com
 server.genusclin.com.br
@@ -168637,7 +168635,6 @@ solartek.ru
 solartia.com
 solarwindsworldwidellc.demdex.net
 solcpp.onl
-sole.bkosmetik.com
 sole.pretto.fr
 sole.riverwalkdental.com.au
 solearval.cfd
@@ -172815,7 +172812,6 @@ ss.maxis.dk
 ss.maysaafragrances.co.uk
 ss.mbagtp.com.au
 ss.mc-importen.dk
-ss.mcgendigital.com
 ss.meadlumber.com
 ss.medexsupply.com
 ss.medicalsbd.com
@@ -174875,6 +174871,7 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
