@@ -10114,7 +10114,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -13334,7 +13333,6 @@ affil.mydrinks.cz
 affil.myface.cz
 affil.nanoshop.cz
 affil.nanospace.cz
-affil.netbiznis.sk
 affil.nutriadapt.cz
 affil.peliskydog.cz
 affil.plkshop.cz
@@ -15228,6 +15226,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -16239,6 +16238,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-dataplane.invideo.io
@@ -22093,7 +22093,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -23148,7 +23147,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -32867,7 +32865,6 @@ cane.intel.co.jp
 cane.intel.co.kr
 cane.intel.co.uk
 cane.intel.com
-cane.intel.com.au
 cane.intel.com.br
 cane.intel.com.tr
 cane.intel.com.tw
@@ -35205,7 +35202,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -35345,7 +35341,6 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -48737,7 +48732,6 @@ data-f1e447fbcf.brokser-heiratsmarkt.de
 data-f1e447fbcf.epaper-system.de
 data-f1e447fbcf.fupa.net
 data-f1e447fbcf.fussball.news
-data-f1e447fbcf.idcdn.de
 data-f1e447fbcf.inn-salzach24.tv
 data-f1e447fbcf.merkur.de
 data-f1e447fbcf.trauer.nrw
@@ -55467,7 +55461,6 @@ dogearkohua.cyou
 doggerslibidos.cyou
 doghalf.com
 doglobal.net
-dognet.sk
 dogo.intel.cn
 dogo.intel.co.jp
 dogo.intel.co.kr
@@ -55479,7 +55472,6 @@ dogo.intel.com.tw
 dogo.intel.de
 dogo.intel.es
 dogo.intel.fr
-dogo.intel.in
 dogo.intel.it
 dogo.intel.la
 dogo.intel.pl
@@ -59943,6 +59935,7 @@ eldj-defender.pro
 eldoradottfha.dataplane.rudderstack.com
 eldos.xyz
 ele26126.jscrambler.com
+elearningmine.com
 eleavers.com
 elecltrum.org
 electclasses.com
@@ -69867,7 +69860,6 @@ gamigoads.com
 gaming-adult.com
 gaming-trending-news.com
 gaming.optimove.net
-gaming001.site
 gamingadlt.com
 gamingclub.com
 gamingfun.me
@@ -71969,6 +71961,7 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -73837,7 +73830,6 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
-grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -103432,12 +103424,9 @@ load.stsv.brillen.de
 load.stsv.brillen.pl
 load.stsv.gafas.es
 load.stsv.occhiali24.it
-load.stsv.offerte-occhiali24.it
-load.stsv.steiner-vision.co.uk
 load.stsv.steiner-vision.de
 load.stsv.steiner-vision.es
 load.stsv.steiner-vision.it
-load.stsv.steiner-vision.pl
 load.stsv.supervistacare.es
 load.sub.auraskin.be
 load.sub.aussiestressfree.com.au
@@ -114735,6 +114724,7 @@ metricus.artlebedev.ru
 metrika-informer.com
 metrika.kontur.ru
 metrika.lookmovie2.to
+metrika.mos.ru
 metrika.myseldon.com
 metrika.traff.space
 metrika.yandex.ru
@@ -114921,7 +114911,6 @@ mgemail.clickpay.com
 mgemail.stampli.com
 mgemi.pxf.io
 mgepodownload.mediatek.com
-mgepuwuwm.com
 mgetuj.brandos.dk
 mgfap.mercimamanboutique.com
 mgfikuktpi.com
@@ -121465,7 +121454,6 @@ nhanvimomo2021.weebly.com
 nhatnamgroups.com
 nhatsadwafljs.site
 nhb.mybluehost.me
-nhbavbqogc.com
 nhd.nushed.co
 nhddn.cloudninehair.com
 nhdhoj.ibs.it
@@ -125549,7 +125537,6 @@ o458855.ingest.us.sentry.io
 o458887.ingest.sentry.io
 o459498.ingest.sentry.io
 o45960.ingest.sentry.io
-o45u8m8gh.i554zgpgl3wpwmy452ymxltyo4xb3o.cyou
 o46.info.updates.moengage.com
 o46007.ingest.us.sentry.io
 o460851.ingest.us.sentry.io
@@ -127938,6 +127925,7 @@ onetag.tws.toyota.jp
 onetarget.ru
 onethestruis.com
 onetouch4.com
+onetouch8.info
 onetrust.techservices.illinois.edu
 onetubes.top
 onety.pl
@@ -135241,7 +135229,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -141748,6 +141735,7 @@ r4---sn-ab5l6nrr.c.2mdn.net
 r4---sn-ab5l6nry.c.2mdn.net
 r4---sn-ab5l6nrz.c.2mdn.net
 r4---sn-ab5l6ny7.c.2mdn.net
+r4---sn-ab5szn67.c.2mdn.net
 r4---sn-ab5sznld.c.2mdn.net
 r4---sn-ab5sznly.c.2mdn.net
 r4---sn-ab5sznz6.c.2mdn.net
@@ -148537,6 +148525,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpmsrv.com
 s.draqarys.com
 s.dreamland-plc.com
@@ -149164,7 +149153,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -149215,7 +149203,6 @@ s.yidianzixun.com
 s.yjtag.jp
 s.yolawo.de
 s.yorkregion.com
-s.yovite.com
 s.zhidian3g.cn
 s.zingas.com
 s.zixuntop.com
@@ -154858,6 +154845,7 @@ server.converzapp.com
 server.coollikemama.com.br
 server.copasurfers.com
 server.coracaodogigante.com.br
+server.coredenz.com
 server.corrienne.com
 server.costurandomagia.com.br
 server.cotacaosavecarbrasil.com.br
@@ -162320,7 +162308,6 @@ sjardw.footlocker.fr
 sjarvis.taobao.com
 sjbaiduadv1.redou.com
 sjbbsja.forum
-sjbhnyplyczv.com
 sjbtn.appfh.com
 sjbtqzptourxf.online
 sjc-login.dotomi.com
@@ -172005,6 +171992,7 @@ ss.dustapro.com
 ss.dustavacuum.com
 ss.duurzaamxl.nl
 ss.dyadlaw.com
+ss.dynamicmarketing.com.mx
 ss.e-home.dk
 ss.e-ita.org
 ss.e-kwiaty.pl
@@ -173208,6 +173196,7 @@ ss.pianetaferra.com
 ss.pielboutiquecr.com
 ss.piethein.dk
 ss.pillowdaddy.de
+ss.pimientonegro.com
 ss.pineridgevineyards.com
 ss.pisuchytre.cz
 ss.pitaya.dk
@@ -174925,7 +174914,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -175224,6 +175213,7 @@ sst.addit.tech
 sst.adfix.com
 sst.adhesivesandbondingexpo.com
 sst.adhome.de
+sst.adirondackfragrance.com
 sst.adonissaremimd.com
 sst.aduro.dk
 sst.adurofire.com
@@ -177780,7 +177770,6 @@ sst.megastore.nl
 sst.mein-wohlfuehlbad.com
 sst.meine-hochzeitsrede.de
 sst.meinewand.com
-sst.meinprojekt.com
 sst.meissen.com
 sst.meisterstueck.de
 sst.mejditours.com
@@ -178728,6 +178717,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -179032,7 +179022,6 @@ sst.staleks.sklep.pl
 sst.stanhopeinsurance.co.uk
 sst.star.de
 sst.starbritedentalrockville.com
-sst.stark-verlag.de
 sst.starling.hr
 sst.startupscience.io
 sst.stealthcam.com
@@ -187717,6 +187706,7 @@ suhfnjm.com
 suhkxbszepout.online
 suhvoulwtaxfj.site
 suicidalruse.com
+suijidaohxl.top
 suinebrahman.cfd
 suitablecondemntin.com
 suitcase890.top
@@ -190570,7 +190560,6 @@ tafeyoguv.pettywell.com
 taffetauncages.cfd
 taffetykey.qpon
 taffiasmarxian.com
-tafimedia.com
 tafrebadus.com
 tag-ams.1rx.io
 tag-cdn.aiactiv.io
@@ -192502,7 +192491,6 @@ tdsworkout.com
 tdt.dansktandforsikring.dk
 tdtc.shop
 tdtfga.healingpinesrecovery.com
-tdum.alibaba.com
 tdusj.sportsetrvc.com
 tduzo.novalights.com.au
 tdwxnm.watch
@@ -201204,7 +201192,6 @@ trends.mobile.sina.cn
 trends.newsmaxwidget.com
 trends.privacywall.org
 trends.revcontent.com
-trendsbongo.com
 trendypersons.com
 trenrasius.com
 trentalburrito.com
@@ -206344,7 +206331,6 @@ utiq.bild.de
 utiq.bitban.com
 utiq.blogthinkbig.com
 utiq.brand-demo.com
-utiq.brokser-heiratsmarkt.de
 utiq.buffed.de
 utiq.bunte.de
 utiq.burgosconecta.es
@@ -206495,7 +206481,6 @@ utiq.heftig.de
 utiq.heimatsport.de
 utiq.hellorayo.co.uk
 utiq.helpster.de
-utiq.hersfelder-zeitung.de
 utiq.hna.de
 utiq.hola.com
 utiq.holidaycheck.at
@@ -206604,7 +206589,6 @@ utiq.marca.com
 utiq.mariefrance.fr
 utiq.marmiton.org
 utiq.maz-online.de
-utiq.meine-anzeigenzeitung.de
 utiq.mejorconectados.com
 utiq.melty.fr
 utiq.merklespaintech.es
@@ -206718,7 +206702,6 @@ utiq.ruhr24.de
 utiq.sabervivirtv.com
 utiq.saechsische.de
 utiq.salamancahoy.es
-utiq.sauerlandkurier.de
 utiq.schlager.de
 utiq.science-et-vie.com
 utiq.semana.es
@@ -206779,7 +206762,6 @@ utiq.tuobenessere.it
 utiq.tvspielfilm.de
 utiq.tvtoday.de
 utiq.tz.de
-utiq.usinger-anzeiger.de
 utiq.utest1-prod.work
 utiq.utest2-prod.work
 utiq.utest2.work
@@ -212016,7 +211998,6 @@ webcontr.aulairenicus.de
 webcontr.barcodescanner.de
 webcontr.barvour.com
 webcontr.baulogistik-online.de
-webcontr.beautyavenue.de
 webcontr.bet-at-home.com
 webcontr.bet-at-home.de
 webcontr.bonbonladenundfeines.de
