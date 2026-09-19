@@ -10177,6 +10177,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15220,7 +15221,7 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
@@ -22084,6 +22085,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -22230,7 +22232,6 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -23139,7 +23140,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -35325,6 +35325,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -37750,7 +37751,6 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -59892,7 +59892,6 @@ elb.the-ozone-project.com
 elbep.xyz
 elbfn.cliqproducts.com
 elbisualp.theorangeone.net
-elclaq.icu
 elcoastlinecall.com
 elcqk.mytriorings.com
 eldaibwgnimzb.site
@@ -71926,6 +71925,7 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -83216,7 +83216,6 @@ hpdriversfree.com
 hpeasjgkolm.in
 hpeych.tonerpartner.sk
 hpfiv.cordsclub.com
-hpfkvr.icu
 hpflxxdwnbvpda.com
 hpfspjajpdzrd.online
 hpfvij.brilu.pl
@@ -121308,7 +121307,6 @@ nfvvxg.kaneka-yhc.co.jp
 nfzetr.shop.bestseller.com
 nfzxcsyycurrk.site
 ng-vn-notice.gameitop.com
-ng.com
 ng2y405w3y.com
 ng3.ads.warnerbros.com
 ngabq7df9.com
@@ -121726,7 +121724,6 @@ njg.mybluehost.me
 njgkzmkkapqjv.online
 njgxjzvgsrzfb.website
 njhinxgrdyjur.space
-njhlvz.icu
 njhzd.fromourplace.com
 njicu.tiffany.co.uk
 njih.net
@@ -132619,7 +132616,6 @@ pghbl1.pubgalaxy.com
 pghpmvqssfiae.website
 pghub.io
 pgi.niem-handel.de
-pgiergxvckyxe.com
 pgiguiqult.com
 pgiitfpbfsbmv.site
 pgisdxbicrxqi.online
@@ -135171,7 +135167,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -140577,11 +140572,13 @@ r1---sn-hp57yn7y.c.2mdn.net
 r1---sn-hp57yne7.c.2mdn.net
 r1---sn-hp57ynee.c.2mdn.net
 r1---sn-hp57ynl6.c.2mdn.net
+r1---sn-hp57ynlr.c.2mdn.net
 r1---sn-hp57ynly.c.2mdn.net
 r1---sn-hp57yns6.c.2mdn.net
 r1---sn-hp57ynsd.c.2mdn.net
 r1---sn-hp57ynss.c.2mdn.net
 r1---sn-hpa7kn76.c.2mdn.net
+r1---sn-hpa7knld.c.2mdn.net
 r1---sn-hpa7zn66.c.2mdn.net
 r1---sn-hpa7zns6.c.2mdn.net
 r1---sn-n4v7snee.c.2mdn.net
@@ -140886,7 +140883,6 @@ r2---sn-ab5sznly.c.2mdn.net
 r2---sn-ab5sznz6.c.2mdn.net
 r2---sn-ab5sznzr.c.2mdn.net
 r2---sn-ab5sznzy.c.2mdn.net
-r2---sn-aigl6n6s.c.2mdn.net
 r2---sn-aigl6ned.c.2mdn.net
 r2---sn-aigl6nl7.c.2mdn.net
 r2---sn-aigl6nz7.c.2mdn.net
@@ -141018,6 +141014,7 @@ r2---sn-p5qlsn6s.c.2mdn.net
 r2---sn-p5qlsn6z.c.2mdn.net
 r2---sn-p5qlsn76.c.2mdn.net
 r2---sn-p5qlsn7d.c.2mdn.net
+r2---sn-p5qlsn7l.c.2mdn.net
 r2---sn-p5qlsndk.c.2mdn.net
 r2---sn-p5qs7n6d.c.2mdn.net
 r2---sn-p5qs7n6y.c.2mdn.net
@@ -141297,6 +141294,7 @@ r3---sn-aigl6nl7.c.2mdn.net
 r3---sn-aigl6nz7.c.2mdn.net
 r3---sn-aigl6nze.c.2mdn.net
 r3---sn-aigl6nzl.c.2mdn.net
+r3---sn-aigl6nzr.c.2mdn.net
 r3---sn-aigzrn76.c.2mdn.net
 r3---sn-aigzrn7d.c.2mdn.net
 r3---sn-aigzrn7e.c.2mdn.net
@@ -141434,6 +141432,7 @@ r3---sn-p5qlsn6s.c.2mdn.net
 r3---sn-p5qlsn6z.c.2mdn.net
 r3---sn-p5qlsn76.c.2mdn.net
 r3---sn-p5qlsn7d.c.2mdn.net
+r3---sn-p5qlsn7l.c.2mdn.net
 r3---sn-p5qlsnd6.c.2mdn.net
 r3---sn-p5qlsndk.c.2mdn.net
 r3---sn-p5qlsndr.c.2mdn.net
@@ -141785,6 +141784,7 @@ r4---sn-hp57yn7y.c.2mdn.net
 r4---sn-hp57yne7.c.2mdn.net
 r4---sn-hp57ynee.c.2mdn.net
 r4---sn-hp57ynl6.c.2mdn.net
+r4---sn-hp57ynlr.c.2mdn.net
 r4---sn-hp57ynly.c.2mdn.net
 r4---sn-hp57yns6.c.2mdn.net
 r4---sn-hp57yns7.c.2mdn.net
@@ -141837,6 +141837,7 @@ r4---sn-p5qlsn6s.c.2mdn.net
 r4---sn-p5qlsn6z.c.2mdn.net
 r4---sn-p5qlsn76.c.2mdn.net
 r4---sn-p5qlsn7d.c.2mdn.net
+r4---sn-p5qlsn7l.c.2mdn.net
 r4---sn-p5qlsnd6.c.2mdn.net
 r4---sn-p5qlsndk.c.2mdn.net
 r4---sn-p5qlsndr.c.2mdn.net
@@ -141979,6 +141980,7 @@ r4---sn-woc7kned.c.2mdn.net
 r4---sn-woc7knek.c.2mdn.net
 r4---sn-x1x7dne6.c.2mdn.net
 r4---sn-x1x7dned.c.2mdn.net
+r4---sn-x1x7dnek.c.2mdn.net
 r4---sn-x1xe7nes.c.2mdn.net
 r4.us.kill-bot.ru
 r40xff8q48.com
@@ -142092,6 +142094,7 @@ r5---sn-ab5sznly.c.2mdn.net
 r5---sn-ab5sznz6.c.2mdn.net
 r5---sn-ab5sznzr.c.2mdn.net
 r5---sn-ab5sznzy.c.2mdn.net
+r5---sn-aigl6n6s.c.2mdn.net
 r5---sn-aigl6ner.c.2mdn.net
 r5---sn-aigl6nz7.c.2mdn.net
 r5---sn-aigl6nzl.c.2mdn.net
@@ -142175,12 +142178,14 @@ r5---sn-hp57knkl.c.2mdn.net
 r5---sn-hp57yn7y.c.2mdn.net
 r5---sn-hp57yne7.c.2mdn.net
 r5---sn-hp57ynee.c.2mdn.net
+r5---sn-hp57ynlr.c.2mdn.net
 r5---sn-hp57ynly.c.2mdn.net
 r5---sn-hp57yns6.c.2mdn.net
 r5---sn-hp57yns7.c.2mdn.net
 r5---sn-hp57ynsd.c.2mdn.net
 r5---sn-hp57ynss.c.2mdn.net
 r5---sn-hpa7kn7d.c.2mdn.net
+r5---sn-hpa7knld.c.2mdn.net
 r5---sn-hpa7zn66.c.2mdn.net
 r5---sn-hpa7zns6.c.2mdn.net
 r5---sn-hpa7znsz.c.2mdn.net
@@ -142288,6 +142293,7 @@ r5---sn-qja5mc-5h.c.2mdn.net
 r5---sn-qja5mc-5j.c.2mdn.net
 r5---sn-qjp5q5-55.c.2mdn.net
 r5---sn-qjp5q5-5q.c.2mdn.net
+r5---sn-qxo7rn7y.c.2mdn.net
 r5---sn-qxo7rne7.c.2mdn.net
 r5---sn-qxo7rnee.c.2mdn.net
 r5---sn-qxoedn7k.c.2mdn.net
@@ -150154,7 +150160,6 @@ salazza.com
 salbraddrepilly.com
 sale.latoken.com
 sale.uk
-sale1k.com
 salecycle.com
 salekxvjerzxc.site
 salemove.com
@@ -166396,7 +166401,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -167849,6 +167853,7 @@ sn-aigl6ner.c.2mdn.net
 sn-aigl6nz7.c.2mdn.net
 sn-aigl6nze.c.2mdn.net
 sn-aigl6nzl.c.2mdn.net
+sn-aigl6nzr.c.2mdn.net
 sn-aigzrn7d.c.2mdn.net
 sn-aigzrnse.c.2mdn.net
 sn-aigzrnss.c.2mdn.net
@@ -169904,7 +169909,6 @@ sp.yelp.com
 sp.yorkdispatch.com
 sp.zanesvilletimesrecorder.com
 sp0.baidu.com
-sp03k.sbs
 sp1-brevo.net
 sp1.baidu.com
 sp1.freeonlinegayporn.com
@@ -178665,6 +178669,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -192436,7 +192441,6 @@ tdsworkout.com
 tdt.dansktandforsikring.dk
 tdtc.shop
 tdtfga.healingpinesrecovery.com
-tdum.alibaba.com
 tdusj.sportsetrvc.com
 tduzo.novalights.com.au
 tdwxnm.watch
@@ -208690,7 +208694,6 @@ vidver.to
 vidverto.io
 vidwestxyz.com
 vidy.com
-vieclam66.com
 vieclamonline247.com
 vieclamonline24h.com
 viedechretien.org
@@ -223817,7 +223820,6 @@ zzdvsgnxamcmq.website
 zzfikyawmqtmw.website
 zzfmo.getyourwaggleon.com
 zzfsli.tom-tailor.ru
-zzfxfz.com
 zzghp.velotricbike.com
 zzhengre.com
 zzhizbzowrzlvy.com
