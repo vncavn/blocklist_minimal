@@ -7729,6 +7729,7 @@ ad.site-landing.com
 ad.sitelement.sk
 ad.skylinewebcams.com
 ad.smaad.jp
+ad.smaclick.com
 ad.smartclip.net
 ad.smartinmedia.co.kr
 ad.snappea.com
@@ -10179,7 +10180,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15224,9 +15224,6 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -23147,6 +23144,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -36388,6 +36386,7 @@ chessquery.com
 chesssorrydescend.com
 chestgoingpunch.com
 chethgentman.live
+chetopenimette.com
 chevronlubricants.demdex.net
 chewerchauvin.com
 chewinglatinus.cyou
@@ -43105,6 +43104,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -71498,6 +71498,7 @@ gim.mybluehost.me
 gimal.com
 gimbal.com
 gimfrxstiodmt.space
+gimg.bitauto.com
 gimokkwkfdbgj.space
 gimpsgenips.com
 gimuci.psychobunny.jp
@@ -71955,7 +71956,6 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -117655,7 +117655,6 @@ mostcompared.com
 mostdishy.com
 moster.granny-xxx-video.com
 mostlybetterorca.ink
-mostlyfor.com
 mosved.com
 mosvnx.livup.com.br
 mosxkhmgxr.cfd
@@ -130736,6 +130735,7 @@ parasiteoutdoorsmix.com
 parasolco.pxf.io
 parasolcrimefactory.com
 parazoabeirut.cyou
+parblemophaort.com
 parcelconsists.com
 parchedplay.com
 parchedsofa.com
@@ -135206,6 +135206,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -138212,7 +138213,6 @@ pwrlkyotm.com
 pwrmar.2-berega.ru
 pwrtail.com
 pwsglyalsemgj.space
-pwtcsinrsozat.space
 pwtftm.shingaku.mynavi.jp
 pwtkl.byrosiejane.com
 pwvlthpqzonnfe.com
@@ -149122,6 +149122,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -154813,6 +154814,7 @@ server.converzapp.com
 server.coollikemama.com.br
 server.copasurfers.com
 server.coracaodogigante.com.br
+server.coredenz.com
 server.corrienne.com
 server.costurandomagia.com.br
 server.cotacaosavecarbrasil.com.br
@@ -161950,7 +161952,6 @@ simples.licitei.com.br
 simplesafari.com
 simplesharebuttons.com
 simplesidewalk.com
-simpleswap.at
 simpleswap.to
 simpletexting.com
 simpletopay.americanexpress.co.uk
@@ -166414,6 +166415,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -174874,6 +174876,8 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -178678,7 +178682,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -192453,7 +192456,6 @@ tdsworkout.com
 tdt.dansktandforsikring.dk
 tdtc.shop
 tdtfga.healingpinesrecovery.com
-tdum.alibaba.com
 tdusj.sportsetrvc.com
 tduzo.novalights.com.au
 tdwxnm.watch
@@ -197676,6 +197678,7 @@ track.dalenetwork.com
 track.daly2024.com
 track.dariuslukas.com
 track.datacenterworld.com
+track.ddmanager.ru
 track.dealextremist.com
 track.debbicarberry.com.au
 track.debenhams.ie
@@ -208727,6 +208730,7 @@ viersflunked.cfd
 viet-lotte.com
 viet-lotte.org
 viet69.uk
+vietad.vn
 vietadx.net
 vietbuzzad.com
 vietcombank-diem.com
@@ -212846,7 +212850,6 @@ whatismyipaddress.ru
 whatisuptodaynow.com
 whatisyourglam.com
 whatmore-analytics-service.ap-south-1.elasticbeanstalk.com
-whats.bz
 whatshelp.io
 whatsmycountry.com
 whatsmyip.dk
@@ -212996,7 +212999,6 @@ whmdrv.marpple.com
 whn.star-media.cn
 whnlerwojyzhi.space
 whnovjboihtzx.site
-who-called-de.com
 who-isit.com
 whoadhoxtojg.com
 whoami-static.barstoolsports.com
@@ -221842,7 +221844,6 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
-z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
@@ -223845,6 +223846,7 @@ zzdvsgnxamcmq.website
 zzfikyawmqtmw.website
 zzfmo.getyourwaggleon.com
 zzfsli.tom-tailor.ru
+zzfxfz.com
 zzghp.velotricbike.com
 zzhengre.com
 zzhizbzowrzlvy.com
