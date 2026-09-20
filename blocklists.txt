@@ -7731,6 +7731,7 @@ ad.site-landing.com
 ad.sitelement.sk
 ad.skylinewebcams.com
 ad.smaad.jp
+ad.smaclick.com
 ad.smartclip.net
 ad.smartinmedia.co.kr
 ad.snappea.com
@@ -11549,6 +11550,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -15229,7 +15231,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -16242,7 +16244,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-dataplane.invideo.io
@@ -22097,7 +22098,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -23152,7 +23152,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -24424,7 +24423,6 @@ auk.muc-off.com
 aukana.jp
 aukgiecbioahe.website
 aukjylvsljien.site
-aulahmuuniglx.space
 aulfto.ecco-verde.fr
 aullwp.sportisimo.sk
 aumago.com
@@ -26813,6 +26811,7 @@ bd1.365qilu.com
 bd1.52che.com
 bd1.click.com.cn
 bd1.dopa.com
+bd1.flfgw.cn
 bd1.guancha.cn
 bd1.jinbaozy.com
 bd1.moguvet.com
@@ -26829,6 +26828,7 @@ bd1b10270f.96a3783f2f.com
 bd2-china.xsfaya.com
 bd2.52che.com
 bd2.dopa.com
+bd2.flfgw.cn
 bd2.jobui.com
 bd2.nipic.com
 bd2.pipaw.com
@@ -34741,7 +34741,6 @@ cdn.d2-apps.net
 cdn.datateam.co.uk
 cdn.datawrkz.com
 cdn.dawplm.com
-cdn.ddmanager.ru
 cdn.debugbear.com
 cdn.deepintent.com
 cdn.defractal.com
@@ -35220,7 +35219,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -35360,6 +35358,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -37031,7 +37030,6 @@ ckcikq.dondup.com
 ckct.ru
 ckdloikam.rescuemetrics.com
 ckemp.de
-ckfaconxrhyen.website
 ckfkkwjvpcsbw.site
 ckfkzn.dubz.com
 ckgbulrcgantw.space
@@ -37790,7 +37788,6 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -38535,6 +38532,7 @@ clurdfsagmfjh.space
 cluster.awmdelivery.com
 cluster.criare.realizaambientes.com.br
 cluster.gralhaimoveis.com.br
+cluster.imoveiscitalli.com.br
 cluster.xhspot.com
 clustercolocate.com
 clusterdaint.shop
@@ -41864,7 +41862,6 @@ counter9.stat.ovh
 counterbot.com
 countercentral.com
 countercity.de
-countercity.net
 counterfeitlearnedpacify.com
 countergeo.com
 counterimageawoke.com
@@ -71309,7 +71306,6 @@ gglx.me
 ggm.astroedit.co.uk
 ggm.clemonsboats.com
 ggm.throttlesociety.com
-ggmbjybfylctk.space
 ggmseqjtwwslm.space
 ggmvge.cheapoair.ca
 ggnop.lactamo.com
@@ -71994,6 +71990,7 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -80535,7 +80532,6 @@ gzuvq.sanitairkamer.nl
 gzvknriwrcwtt.website
 gzynllfiy.com
 gzzdf.pulsetv.com
-gzzfcmflxfspx.store
 gzzkjdam.cn
 h-135-197-255-72.net.mydays.de
 h-135-207-10-7.net.mydays.de
@@ -129333,7 +129329,6 @@ ouofxj.deals
 ouoyui.win
 oupcqqltw.com
 oupeng.com
-oupgcgnevtqjm.site
 ouphouch.com
 oupvfjtyxfxky.site
 ouq.mybluehost.me
@@ -130809,7 +130804,6 @@ parasiteoutdoorsmix.com
 parasolco.pxf.io
 parasolcrimefactory.com
 parazoabeirut.cyou
-parblemophaort.com
 parcelconsists.com
 parchedplay.com
 parchedsofa.com
@@ -135283,7 +135277,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -140604,6 +140597,7 @@ r1---sn-ab5l6nrr.c.2mdn.net
 r1---sn-ab5l6nry.c.2mdn.net
 r1---sn-ab5l6nrz.c.2mdn.net
 r1---sn-ab5l6ny7.c.2mdn.net
+r1---sn-ab5szn67.c.2mdn.net
 r1---sn-ab5sznld.c.2mdn.net
 r1---sn-ab5sznly.c.2mdn.net
 r1---sn-ab5sznzr.c.2mdn.net
@@ -140989,6 +140983,7 @@ r2---sn-ab5l6nrr.c.2mdn.net
 r2---sn-ab5l6nry.c.2mdn.net
 r2---sn-ab5l6nrz.c.2mdn.net
 r2---sn-ab5l6ny7.c.2mdn.net
+r2---sn-ab5szn67.c.2mdn.net
 r2---sn-ab5sznld.c.2mdn.net
 r2---sn-ab5sznly.c.2mdn.net
 r2---sn-ab5sznz6.c.2mdn.net
@@ -141386,6 +141381,7 @@ r3---sn-ab5l6nrr.c.2mdn.net
 r3---sn-ab5l6nry.c.2mdn.net
 r3---sn-ab5l6nrz.c.2mdn.net
 r3---sn-ab5l6ny7.c.2mdn.net
+r3---sn-ab5szn67.c.2mdn.net
 r3---sn-ab5sznld.c.2mdn.net
 r3---sn-ab5sznly.c.2mdn.net
 r3---sn-ab5sznzr.c.2mdn.net
@@ -141788,6 +141784,7 @@ r4---sn-ab5l6nrr.c.2mdn.net
 r4---sn-ab5l6nry.c.2mdn.net
 r4---sn-ab5l6nrz.c.2mdn.net
 r4---sn-ab5l6ny7.c.2mdn.net
+r4---sn-ab5szn67.c.2mdn.net
 r4---sn-ab5sznld.c.2mdn.net
 r4---sn-ab5sznly.c.2mdn.net
 r4---sn-ab5sznz6.c.2mdn.net
@@ -142176,6 +142173,7 @@ r5---sn-ab5l6nrl.c.2mdn.net
 r5---sn-ab5l6nrr.c.2mdn.net
 r5---sn-ab5l6nry.c.2mdn.net
 r5---sn-ab5l6ny7.c.2mdn.net
+r5---sn-ab5szn67.c.2mdn.net
 r5---sn-ab5sznld.c.2mdn.net
 r5---sn-ab5sznly.c.2mdn.net
 r5---sn-ab5sznz6.c.2mdn.net
@@ -143184,7 +143182,6 @@ rdhazivrgjcfb.site
 rdhsefvixvaws.space
 rdhzeagmyxdim.site
 rdi.criteo.com
-rdiloktcbwkhg.online
 rdir.smartshoppingads.co.uk
 rdiul.com
 rdjzt.buyindacloud.com
@@ -148579,6 +148576,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpmsrv.com
 s.draqarys.com
 s.dreamland-plc.com
@@ -149206,7 +149204,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -167947,6 +167944,7 @@ sn-ab5l6nrr.c.2mdn.net
 sn-ab5l6nry.c.2mdn.net
 sn-ab5l6nrz.c.2mdn.net
 sn-ab5l6ny7.c.2mdn.net
+sn-ab5szn67.c.2mdn.net
 sn-ab5sznld.c.2mdn.net
 sn-ab5sznly.c.2mdn.net
 sn-ab5sznz6.c.2mdn.net
@@ -170714,7 +170712,6 @@ spvtwiiyefosr.online
 spx-s1.adangle.online
 spx-s1.agl006.host
 spx.smaato.com
-spxsvrvxwouyp.site
 spxxxtube.com
 spy.epornleak.com
 spy.sli.ce.it
@@ -172049,6 +172046,7 @@ ss.dustapro.com
 ss.dustavacuum.com
 ss.duurzaamxl.nl
 ss.dyadlaw.com
+ss.dynamicmarketing.com.mx
 ss.e-home.dk
 ss.e-ita.org
 ss.e-kwiaty.pl
@@ -174970,7 +174968,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -178773,6 +178771,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -194257,7 +194256,6 @@ tidebuy.com
 tidedaybreakdiverge.com
 tidingsdressed.com
 tidiosewanzeantaiva.qpon
-tidjufquvobvr.space
 tidningsnatet.se
 tidy-idea.com
 tidy-mark.com
@@ -206164,7 +206162,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -207322,6 +207319,7 @@ v16m-default.akamaized.net.iberostar.com
 v1conf.darwin.kuiniuca.com
 v1d.pkoplink.com
 v1uzpz8q83vft4.cfd
+v2-app-lido-finance.cc
 v2-dbs-git.net.mydays.de
 v2-elasticbeanstalkconfig22.net.mydays.de
 v2-publidash-api.voodoo.io
@@ -213373,7 +213371,6 @@ wigetmedia.com
 wigglegloatshrill.com
 wigglesdevinct.qpon
 wiggydogshop-ss.checkoutera.com
-wigkswxmurpfn.website
 wigkxx.jetcost.com
 wignosy.com
 wigvceapsow.com
@@ -214660,7 +214657,6 @@ wss.hbpl.co.uk
 wss.morphify.net
 wss.pollfish.com
 wssfwa.ltdcommodities.com
-wsssaunhzztxj.store
 wsst.memberspot.de
 wsstm.4gvn.com
 wstats.ageverif.com
@@ -215082,6 +215078,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
