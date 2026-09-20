@@ -404,7 +404,6 @@
 12114200.pix-cdn.org
 121xpp689.com
 121yscfk5e.com
-123-counter.de
 123-tracker.com
 123.rudestbrand.com
 123.sogou.com
@@ -1791,7 +1790,6 @@
 45151e7d7c.com
 452tapgn.de
 4536e19398.com
-456tt.bar
 4590bertn12.wir-gastfreunde.de
 459ae2dcb8.8231e5c33a.com
 459b6951ca.com
@@ -1995,7 +1993,6 @@
 50union.com
 51-lq.com
 51.la
-51.no
 5101c555fc.com
 5103c0n1c.texasmonthly.com
 510a62f1a2.com
@@ -7300,7 +7297,6 @@ ad.adition.com
 ad.adjw.co.kr
 ad.adkova.com
 ad.admine.co.kr
-ad.adnow.com
 ad.adpon-affi.net
 ad.adpon.jp
 ad.adriver.ru
@@ -10115,6 +10111,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -10180,6 +10177,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -11491,7 +11489,6 @@ adserver.millionairemate.com
 adserver.mk
 adserver.moitepari.bg
 adserver.muaban.net
-adserver.ngz-network.de
 adserver.nydailynews.com
 adserver.o2.pl
 adserver.oddschecker.com
@@ -15225,7 +15222,6 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allforyourlife.org
@@ -16240,7 +16236,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-dataplane.invideo.io
@@ -22324,7 +22319,6 @@ appfloor.appcpi.net.iberostar.com
 appfolio-analytics.com
 appgax.optica-optima.com
 appget.cn
-appgift.sinaapp.com
 appgiftwall.oss-us-west-1.aliyuncs.com
 appgrowth.com
 appgw.inmobi.com
@@ -23150,7 +23144,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -27748,7 +27741,6 @@ betamountwo.com
 betandwin.best
 betanetwork.net
 betarget.com
-betarget.de
 betazebra.com
 beterrakionan.com
 betfredaffiliates.com
@@ -28215,7 +28207,6 @@ biancasunlit.com
 biaodoo.com
 biauralpatency.cyou
 biaxalwoibe.com
-bibeidh46.cc
 bibeidh48.cc
 bibglj.timberland.fr
 bibincom.com
@@ -34748,7 +34739,6 @@ cdn.d2-apps.net
 cdn.datateam.co.uk
 cdn.datawrkz.com
 cdn.dawplm.com
-cdn.ddmanager.ru
 cdn.debugbear.com
 cdn.deepintent.com
 cdn.defractal.com
@@ -35653,7 +35643,6 @@ ce-data-collector-api-prod-alb2-1611447619.ap-south-1.elb.amazonaws.com
 ce-is-gtm.byu.edu
 ce.adsdomaintracking.com
 ce.chi.com
-ce.do
 ce.galaxiemedia.fr
 ce.lijit.com
 ce.wlaoc.cn
@@ -43137,7 +43126,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -69366,7 +69354,6 @@ g.baidu.com
 g.bbe-insider.com
 g.beesbuzz.biz
 g.bing.com
-g.bitauto.com
 g.blissdiamond.com
 g.bottleplus.com
 g.btc-echo.de
@@ -72018,6 +72005,7 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -111419,7 +111407,6 @@ mega1app.yeah1publishing.com
 megaad.nz
 megabestnews.net
 megabrain.co
-megacash.de
 megadata.co.kr
 megadeliveryn.com
 megafiles.xyz
@@ -128000,7 +127987,6 @@ onetag.tws.toyota.jp
 onetarget.ru
 onethestruis.com
 onetouch4.com
-onetouch8.info
 onetrust.techservices.illinois.edu
 onetubes.top
 onety.pl
@@ -135312,7 +135298,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -138224,6 +138209,7 @@ pvd.to
 pvdbkr.com
 pvdnugjwyrkad.website
 pvdpix.com
+pvdynatracegw01.cosmote.gr
 pveja.heydude.de
 pveldvvjrvgru.site
 pvfbav.sportler.com
@@ -142523,7 +142509,6 @@ r96h7g97rik8eq8ow.cfd
 r973.timesheraldonline.com
 r9efr.pf95ewyr24qqtgx2zn1r67n8u7hju5l44.cyou
 r9f8nkd6tr.cfd
-r9ljguu1k4.ru
 r9mt.flareon.click
 r9x.in
 ra.estejaondequiser.com.br
@@ -149238,7 +149223,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -149623,7 +149607,6 @@ s334284386.hs.eloqua.com
 s34.cnzz.com
 s35.cnzz.com
 s36.cnzz.com
-s36181.arkaan.sa
 s362693299.aon.ca
 s362693299.aon.com
 s37.cnzz.com
@@ -150180,7 +150163,6 @@ safes.ru.com
 safesearchinc.com
 safestcaterer.com
 safestcontentgate.com
-safestgatetocontent.com
 safestprioritybelief.com
 safestsniffingconfessed.com
 safesync.com
@@ -154935,7 +154917,6 @@ server.converzapp.com
 server.coollikemama.com.br
 server.copasurfers.com
 server.coracaodogigante.com.br
-server.coredenz.com
 server.corrienne.com
 server.costurandomagia.com.br
 server.cotacaosavecarbrasil.com.br
@@ -160166,7 +160147,6 @@ sgtm.potencializabrasil.com
 sgtm.poufsacco.it
 sgtm.poulsborv.com
 sgtm.pourdebon.com
-sgtm.powerrichsports.com
 sgtm.praguedays.com
 sgtm.predeion.it
 sgtm.prefast.nl
@@ -162110,7 +162090,6 @@ sin1-ib.adnxs.com
 sin1.g.adnxs.com
 sin3-ib.adnxs.com
 sina.mediav.com
-sinacloud.net
 sinaitemynah.cyou
 sinceaware.com
 sincedialover.com
@@ -166542,7 +166521,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -178808,6 +178786,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -186753,7 +186732,6 @@ storeya.com
 storeyderived.com
 storiercarers.qpon
 stories.automatad.com
-storiespace.com
 storiessharifs.cfd
 stork.ibite.company
 stork.notlessbutbetter.com
@@ -214383,7 +214361,6 @@ wp.alcmpn.com
 wp.lockmysneaker.com
 wp20.ru
 wpadmngr.com
-wpan.sc2yun.com
 wpauvu.obuvki.bg
 wpb.wgplayer.com
 wpbioervnvxdv.online
@@ -215122,6 +215099,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -222002,7 +221980,6 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
-z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
@@ -223347,7 +223324,6 @@ zopxzq.premiata.it
 zoqalwuvnsxut.site
 zoquehagseed.qpon
 zoqvjyoojmamb.top
-zorango.com
 zorbanmat.com
 zorbklqebjvqq.top
 zorcxrkpxvbsj.site
@@ -224016,7 +223992,6 @@ zzdvsgnxamcmq.website
 zzfikyawmqtmw.website
 zzfmo.getyourwaggleon.com
 zzfsli.tom-tailor.ru
-zzfxfz.com
 zzghp.velotricbike.com
 zzhengre.com
 zzhizbzowrzlvy.com
